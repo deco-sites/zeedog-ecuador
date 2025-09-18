@@ -71,7 +71,7 @@
     "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/c3251fbe-80da-4047-a1d9-434fec93710e",
     "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/72b6b058-dff7-42a5-8ab6-c8ce4e661c93",
     "themeColor": "#FFFFFF",
-    "noIndexing": false,
+    "noIndexing": true,
     "title": "Zee.Dog"
   }
 }

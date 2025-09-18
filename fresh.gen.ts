@@ -31,6 +31,9 @@ import * as $header_ShoppingBar from "./islands/header/ShoppingBar.tsx";
 import * as $header_menu_MenuDrawer from "./islands/header/menu/MenuDrawer.tsx";
 import * as $header_promobar_ClosePromoBarButton from "./islands/header/promobar/ClosePromoBarButton.tsx";
 import * as $language_LanguageSelectorButton from "./islands/language/LanguageSelectorButton.tsx";
+import * as $modal_HandleCloseModal from "./islands/modal/HandleCloseModal.tsx";
+import * as $modal_HandleSubmitModal from "./islands/modal/HandleSubmitModal.tsx";
+import * as $modal_handleOpenModal from "./islands/modal/handleOpenModal.ts";
 import * as $modalUser_ContentModalUser from "./islands/modalUser/ContentModalUser.tsx";
 import * as $modalUser_login_ConfirmationLink from "./islands/modalUser/login/ConfirmationLink.tsx";
 import * as $modalUser_login_FormLogin from "./islands/modalUser/login/FormLogin.tsx";
@@ -39,9 +42,6 @@ import * as $modalUser_login_FormNewPassword from "./islands/modalUser/login/For
 import * as $modalUser_login_Login from "./islands/modalUser/login/Login.tsx";
 import * as $modalUser_register_FormRegister from "./islands/modalUser/register/FormRegister.tsx";
 import * as $modalUser_register_RegisterModal from "./islands/modalUser/register/RegisterModal.tsx";
-import * as $modal_HandleCloseModal from "./islands/modal/HandleCloseModal.tsx";
-import * as $modal_HandleSubmitModal from "./islands/modal/HandleSubmitModal.tsx";
-import * as $modal_handleOpenModal from "./islands/modal/handleOpenModal.ts";
 import * as $popup_HandleClosePopup from "./islands/popup/HandleClosePopup.tsx";
 import * as $product_Cards_MinicartProductCard from "./islands/product/Cards/MinicartProductCard.tsx";
 import * as $product_Cards_MinicartProductCardList from "./islands/product/Cards/MinicartProductCardList.tsx";
@@ -106,6 +106,9 @@ const manifest = {
       $header_promobar_ClosePromoBarButton,
     "./islands/language/LanguageSelectorButton.tsx":
       $language_LanguageSelectorButton,
+    "./islands/modal/HandleCloseModal.tsx": $modal_HandleCloseModal,
+    "./islands/modal/HandleSubmitModal.tsx": $modal_HandleSubmitModal,
+    "./islands/modal/handleOpenModal.ts": $modal_handleOpenModal,
     "./islands/modalUser/ContentModalUser.tsx": $modalUser_ContentModalUser,
     "./islands/modalUser/login/ConfirmationLink.tsx":
       $modalUser_login_ConfirmationLink,
@@ -119,9 +122,6 @@ const manifest = {
       $modalUser_register_FormRegister,
     "./islands/modalUser/register/RegisterModal.tsx":
       $modalUser_register_RegisterModal,
-    "./islands/modal/HandleCloseModal.tsx": $modal_HandleCloseModal,
-    "./islands/modal/HandleSubmitModal.tsx": $modal_HandleSubmitModal,
-    "./islands/modal/handleOpenModal.ts": $modal_handleOpenModal,
     "./islands/popup/HandleClosePopup.tsx": $popup_HandleClosePopup,
     "./islands/product/Cards/MinicartProductCard.tsx":
       $product_Cards_MinicartProductCard,

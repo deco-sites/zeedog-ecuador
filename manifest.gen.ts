@@ -17,37 +17,38 @@ import * as $$$5 from "./loaders/shopify/product/getSimilarsProducts.ts";
 import * as $$$6 from "./loaders/shopify/product/getUrlById.ts";
 import * as $$$7 from "./loaders/user.ts";
 import * as $$$$$$$0 from "./matchers/languagePathnameValue.ts";
-import * as $$$$$$0 from "./sections/ErrorPage.tsx";
-import * as $$$$$$1 from "./sections/FAQ.tsx";
-import * as $$$$$$2 from "./sections/Footer.tsx";
-import * as $$$$$$3 from "./sections/Header.tsx";
-import * as $$$$$$4 from "./sections/Home/BannerAndCarousel.tsx";
-import * as $$$$$$5 from "./sections/Home/BannerAndCarouselGrid.tsx";
-import * as $$$$$$6 from "./sections/Home/BannerSkeleton.tsx";
-import * as $$$$$$7 from "./sections/Home/CategoryBannerCarousel.tsx";
-import * as $$$$$$8 from "./sections/Home/DoubleBanner.tsx";
-import * as $$$$$$9 from "./sections/Home/FarmStickerBanner.tsx";
-import * as $$$$$$10 from "./sections/Home/FarmStickerEmailCapture.tsx";
-import * as $$$$$$11 from "./sections/Home/Marquee.tsx";
-import * as $$$$$$12 from "./sections/Home/MiniCardsCarousel.tsx";
-import * as $$$$$$13 from "./sections/Home/SingleBanner.tsx";
-import * as $$$$$$14 from "./sections/Home/SlimBannerCards.tsx";
-import * as $$$$$$15 from "./sections/Institutional/AboutUs.tsx";
-import * as $$$$$$16 from "./sections/Institutional/PrivacyPolicy.tsx";
-import * as $$$$$$17 from "./sections/Institutional/RefundPolicy.tsx";
-import * as $$$$$$18 from "./sections/Institutional/SalesContact.tsx";
-import * as $$$$$$19 from "./sections/Institutional/ShippingPolicy.tsx";
-import * as $$$$$$20 from "./sections/Institutional/TermsOfService.tsx";
-import * as $$$$$$21 from "./sections/Modal.tsx";
-import * as $$$$$$22 from "./sections/MultiPages.tsx";
-import * as $$$$$$23 from "./sections/Popup.tsx";
-import * as $$$$$$26 from "./sections/Product/ProductDetailsPage.tsx";
-import * as $$$$$$24 from "./sections/ProductCarousel.tsx";
-import * as $$$$$$25 from "./sections/ProductShelf.tsx";
-import * as $$$$$$27 from "./sections/SearchResult.tsx";
-import * as $$$$$$28 from "./sections/Site/seo/SeoPDPV3.tsx";
-import * as $$$$$$29 from "./sections/Site/seo/SeoPLPV3.tsx";
-import * as $$$$$$30 from "./sections/Site/seo/SeoV3.tsx";
+import * as $$$$$$0 from "./sections/ComingSoon.tsx";
+import * as $$$$$$1 from "./sections/ErrorPage.tsx";
+import * as $$$$$$2 from "./sections/FAQ.tsx";
+import * as $$$$$$3 from "./sections/Footer.tsx";
+import * as $$$$$$4 from "./sections/Header.tsx";
+import * as $$$$$$5 from "./sections/Home/BannerAndCarousel.tsx";
+import * as $$$$$$6 from "./sections/Home/BannerAndCarouselGrid.tsx";
+import * as $$$$$$7 from "./sections/Home/BannerSkeleton.tsx";
+import * as $$$$$$8 from "./sections/Home/CategoryBannerCarousel.tsx";
+import * as $$$$$$9 from "./sections/Home/DoubleBanner.tsx";
+import * as $$$$$$10 from "./sections/Home/FarmStickerBanner.tsx";
+import * as $$$$$$11 from "./sections/Home/FarmStickerEmailCapture.tsx";
+import * as $$$$$$12 from "./sections/Home/Marquee.tsx";
+import * as $$$$$$13 from "./sections/Home/MiniCardsCarousel.tsx";
+import * as $$$$$$14 from "./sections/Home/SingleBanner.tsx";
+import * as $$$$$$15 from "./sections/Home/SlimBannerCards.tsx";
+import * as $$$$$$16 from "./sections/Institutional/AboutUs.tsx";
+import * as $$$$$$17 from "./sections/Institutional/PrivacyPolicy.tsx";
+import * as $$$$$$18 from "./sections/Institutional/RefundPolicy.tsx";
+import * as $$$$$$19 from "./sections/Institutional/SalesContact.tsx";
+import * as $$$$$$20 from "./sections/Institutional/ShippingPolicy.tsx";
+import * as $$$$$$21 from "./sections/Institutional/TermsOfService.tsx";
+import * as $$$$$$22 from "./sections/Modal.tsx";
+import * as $$$$$$23 from "./sections/MultiPages.tsx";
+import * as $$$$$$24 from "./sections/Popup.tsx";
+import * as $$$$$$25 from "./sections/Product/ProductDetailsPage.tsx";
+import * as $$$$$$26 from "./sections/ProductCarousel.tsx";
+import * as $$$$$$27 from "./sections/ProductShelf.tsx";
+import * as $$$$$$28 from "./sections/SearchResult.tsx";
+import * as $$$$$$29 from "./sections/Site/seo/SeoPDPV3.tsx";
+import * as $$$$$$30 from "./sections/Site/seo/SeoPLPV3.tsx";
+import * as $$$$$$31 from "./sections/Site/seo/SeoV3.tsx";
 
 const manifest = {
   "loaders": {
@@ -61,37 +62,38 @@ const manifest = {
     "site/loaders/user.ts": $$$7,
   },
   "sections": {
-    "site/sections/ErrorPage.tsx": $$$$$$0,
-    "site/sections/FAQ.tsx": $$$$$$1,
-    "site/sections/Footer.tsx": $$$$$$2,
-    "site/sections/Header.tsx": $$$$$$3,
-    "site/sections/Home/BannerAndCarousel.tsx": $$$$$$4,
-    "site/sections/Home/BannerAndCarouselGrid.tsx": $$$$$$5,
-    "site/sections/Home/BannerSkeleton.tsx": $$$$$$6,
-    "site/sections/Home/CategoryBannerCarousel.tsx": $$$$$$7,
-    "site/sections/Home/DoubleBanner.tsx": $$$$$$8,
-    "site/sections/Home/FarmStickerBanner.tsx": $$$$$$9,
-    "site/sections/Home/FarmStickerEmailCapture.tsx": $$$$$$10,
-    "site/sections/Home/Marquee.tsx": $$$$$$11,
-    "site/sections/Home/MiniCardsCarousel.tsx": $$$$$$12,
-    "site/sections/Home/SingleBanner.tsx": $$$$$$13,
-    "site/sections/Home/SlimBannerCards.tsx": $$$$$$14,
-    "site/sections/Institutional/AboutUs.tsx": $$$$$$15,
-    "site/sections/Institutional/PrivacyPolicy.tsx": $$$$$$16,
-    "site/sections/Institutional/RefundPolicy.tsx": $$$$$$17,
-    "site/sections/Institutional/SalesContact.tsx": $$$$$$18,
-    "site/sections/Institutional/ShippingPolicy.tsx": $$$$$$19,
-    "site/sections/Institutional/TermsOfService.tsx": $$$$$$20,
-    "site/sections/Modal.tsx": $$$$$$21,
-    "site/sections/MultiPages.tsx": $$$$$$22,
-    "site/sections/Popup.tsx": $$$$$$23,
-    "site/sections/Product/ProductDetailsPage.tsx": $$$$$$26,
-    "site/sections/ProductCarousel.tsx": $$$$$$24,
-    "site/sections/ProductShelf.tsx": $$$$$$25,
-    "site/sections/SearchResult.tsx": $$$$$$27,
-    "site/sections/Site/seo/SeoPDPV3.tsx": $$$$$$28,
-    "site/sections/Site/seo/SeoPLPV3.tsx": $$$$$$29,
-    "site/sections/Site/seo/SeoV3.tsx": $$$$$$30,
+    "site/sections/ComingSoon.tsx": $$$$$$0,
+    "site/sections/ErrorPage.tsx": $$$$$$1,
+    "site/sections/FAQ.tsx": $$$$$$2,
+    "site/sections/Footer.tsx": $$$$$$3,
+    "site/sections/Header.tsx": $$$$$$4,
+    "site/sections/Home/BannerAndCarousel.tsx": $$$$$$5,
+    "site/sections/Home/BannerAndCarouselGrid.tsx": $$$$$$6,
+    "site/sections/Home/BannerSkeleton.tsx": $$$$$$7,
+    "site/sections/Home/CategoryBannerCarousel.tsx": $$$$$$8,
+    "site/sections/Home/DoubleBanner.tsx": $$$$$$9,
+    "site/sections/Home/FarmStickerBanner.tsx": $$$$$$10,
+    "site/sections/Home/FarmStickerEmailCapture.tsx": $$$$$$11,
+    "site/sections/Home/Marquee.tsx": $$$$$$12,
+    "site/sections/Home/MiniCardsCarousel.tsx": $$$$$$13,
+    "site/sections/Home/SingleBanner.tsx": $$$$$$14,
+    "site/sections/Home/SlimBannerCards.tsx": $$$$$$15,
+    "site/sections/Institutional/AboutUs.tsx": $$$$$$16,
+    "site/sections/Institutional/PrivacyPolicy.tsx": $$$$$$17,
+    "site/sections/Institutional/RefundPolicy.tsx": $$$$$$18,
+    "site/sections/Institutional/SalesContact.tsx": $$$$$$19,
+    "site/sections/Institutional/ShippingPolicy.tsx": $$$$$$20,
+    "site/sections/Institutional/TermsOfService.tsx": $$$$$$21,
+    "site/sections/Modal.tsx": $$$$$$22,
+    "site/sections/MultiPages.tsx": $$$$$$23,
+    "site/sections/Popup.tsx": $$$$$$24,
+    "site/sections/Product/ProductDetailsPage.tsx": $$$$$$25,
+    "site/sections/ProductCarousel.tsx": $$$$$$26,
+    "site/sections/ProductShelf.tsx": $$$$$$27,
+    "site/sections/SearchResult.tsx": $$$$$$28,
+    "site/sections/Site/seo/SeoPDPV3.tsx": $$$$$$29,
+    "site/sections/Site/seo/SeoPLPV3.tsx": $$$$$$30,
+    "site/sections/Site/seo/SeoV3.tsx": $$$$$$31,
   },
   "matchers": {
     "site/matchers/languagePathnameValue.ts": $$$$$$$0,

@@ -489,7 +489,7 @@ html {
   }
 
   body {
-    padding-top: 152px;
+/*     padding-top: 152px; */
     letter-spacing: 1px;
   }
 
@@ -3017,6 +3017,9 @@ input.tab:checked + .tab-content,
 .flex-col {
   flex-direction: column;
 }
+.flex-col-reverse {
+  flex-direction: column-reverse;
+}
 .flex-wrap {
   flex-wrap: wrap;
 }
@@ -3910,6 +3913,9 @@ input.tab:checked + .tab-content,
 }
 .text-start {
   text-align: start;
+}
+.font-futura {
+  font-family: futura-pt, ui-sans-serif, system-ui, sans-serif;
 }
 .font-roboto {
   font-family: roboto, ui-sans-serif, system-ui, sans-serif;
@@ -8392,6 +8398,10 @@ body.js-folded-header .folded-header\:opacity-0 {
 
   .lg\:text-right {
     text-align: right;
+  }
+
+  .lg\:text-lg {
+    font-size: 20px;
   }
 
   .lg\:text-white {
