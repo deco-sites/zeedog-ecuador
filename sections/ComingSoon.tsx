@@ -21,7 +21,7 @@ export default function ComingSoon(
       />
 
       <div class="flex flex-col gap-2.5 items-center justify-center text-center w-full font-futura mt-8">
-        <h1 class="text-3xl font-bold">{title}</h1>
+        <h1 class="block text-3xl font-bold">{title}</h1>
         {description && <span class="text-base lg:text-lg">{description}</span>}
       </div>
     </div>
