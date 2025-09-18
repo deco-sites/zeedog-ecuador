@@ -1,0 +1,19 @@
+{
+  "name": "Informational Pages",
+  "path": "/pages/:page",
+  "sections": [
+    {
+      "__resolveType": "Sobre Nosotros"
+    },
+    {
+      "__resolveType": "Preguntas Frecuentes"
+    },
+    {
+      "__resolveType": "Error Page"
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

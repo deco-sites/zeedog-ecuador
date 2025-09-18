@@ -1,0 +1,43 @@
+{
+  "__resolveType": "website/flags/multivariate/section.ts",
+  "variants": [
+    {
+      "value": {
+        "__resolveType": "site/sections/MultiPages.tsx",
+        "sections": [
+          {
+            "__resolveType": "site/sections/Site/seo/SeoV3.tsx",
+            "title": "Sobre Nosotros",
+            "description": "Conoce la misión de Zee.Dog: conectar perros y personas a través de productos innovadores, de alta calidad y con un diseño único. Descubre nuestra historia, valores y el compromiso de crear una comunidad apasionada por los perros y el estilo de vida.",
+            "canonical": "https://www.zeedog.pe/pages/sobre-nosotros",
+            "alternateLanguages": []
+          },
+          {
+            "__resolveType": "Modal"
+          },
+          {
+            "__resolveType": "Header"
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Institutional/AboutUs.tsx",
+              "htmlContent": "<p><strong><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">ESTA ES NUESTRA MISIÓN</span></strong><br><br></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Zee.Dog\"><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">Zee.Dog nació con un objetivo claro: conectar perros y personas. Creamos y desarrollamos productos de estilo de vida que no solo mejoran la vida diaria de tu perro, sino que también reflejan tu estilo y personalidad. Cada uno de nuestros productos es el resultado de una cuidadosa investigación y desarrollo, porque creemos que el diseño, la innovación y la calidad siempre deben ir de la mano.</span></a><br><br></p><p><strong><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">HECHO PARA TI Y TU PERRO</span></strong><br><br></p><p><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">Todo empezó en un pequeño y desordenado estudio en Los Ángeles. Acabábamos de adoptar a Zeca y Lico y, por primera vez, buscábamos accesorios para ellos, y, en nuestra mente, también para nosotros. Fue frustrante descubrir que no había productos con los que nos identificáramos. Ninguna marca reconocible, ningún estilo que nos representara. ¿La única opción? Elegir lo menos malo de la estantería.</span></p><p><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">Y pronto comprendimos por qué.</span><br><br></p><p><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">La industria de las mascotas había estado en manos de las mismas grandes empresas durante décadas, con una sola mentalidad: producir accesorios estandarizados sin innovación, impulsándolos a distribuidores y tiendas de mascotas incluso antes de que llegaran a manos de los clientes. Sin conexión entre la marca y el cliente, sin atención al detalle. Queríamos cambiar todo esto.</span><br><br></p><p><strong><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">MÁS QUE UNA MARCA, UNA COMUNIDAD</span></strong><br><br></p><p><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">Los accesorios para perros nunca se habían considerado una extensión de tu estilo de vida, como los zapatos que usas, los vaqueros que eliges o el reloj que llevas en la muñeca. ¿Por qué? Porque simplemente no existían. Hasta ahora.</span><br><br></p><p><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">Hacemos las cosas de forma diferente. Seguimos las tendencias, innovamos y desarrollamos productos con materiales de alta calidad, sin concesiones. </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Zee.Dog\"><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">Zee.Dog</span></a><span style=\"color: rgb(0, 0, 0); font-size: 12pt\"> nació de la necesidad y hoy se ha convertido en una comunidad internacional de personas que aman a los perros y buscan una alternativa.</span><br><br></p><p><strong><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">Bienvenido a la familia.</span></strong></p>",
+              "title": "Sobre Nosotros"
+            }
+          },
+          {
+            "__resolveType": "Footer"
+          }
+        ]
+      },
+      "rule": {
+        "__resolveType": "website/matchers/pathname.ts",
+        "case": {
+          "type": "Equals",
+          "pathname": "/pages/sobre-nosotros"
+        }
+      }
+    }
+  ]
+}

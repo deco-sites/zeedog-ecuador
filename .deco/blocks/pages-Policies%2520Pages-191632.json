@@ -1,0 +1,28 @@
+{
+  "name": "Policies Pages",
+  "path": "/policies/:page",
+  "sections": [
+    {
+      "__resolveType": "Privacy Policy Page"
+    },
+    {
+      "__resolveType": "Contact Information Page"
+    },
+    {
+      "__resolveType": "Refund Policy Page"
+    },
+    {
+      "__resolveType": "Shipping Policy Page"
+    },
+    {
+      "__resolveType": "Terms of Service Page"
+    },
+    {
+      "__resolveType": "Error Page"
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

@@ -1,0 +1,186 @@
+{
+  "__resolveType": "site/sections/Footer.tsx",
+  "menu": [
+    {
+      "children": [
+        {
+          "title": "Preguntas frecuentes",
+          "url": "/pages/preguntas-frecuentes"
+        },
+        {
+          "title": "Sobre nuestros productos",
+          "url": "/pages/preguntas-frecuentes#sobre%20nuestros%20productos",
+          "openNewTab": true
+        },
+        {
+          "title": "Cambios y devoluciones",
+          "url": "/pages/preguntas-frecuentes#intercambios%20y%20devoluciones",
+          "openNewTab": true
+        },
+        {
+          "title": "Envíos",
+          "url": "/pages/preguntas-frecuentes#entregas",
+          "openNewTab": true
+        },
+        {
+          "title": "Sobre nosotros",
+          "url": "/pages/sobre-nosotros"
+        }
+      ],
+      "title": "¿Necesitas ayuda?"
+    },
+    {
+      "children": [
+        {
+          "title": "Perros",
+          "url": "/collections/todos-los-productos"
+        },
+        {
+          "title": "Gatos",
+          "url": "/collections/todos-los-productos-para-gatos"
+        }
+      ],
+      "title": "Productos"
+    }
+  ],
+  "socialMedia": [
+    {
+      "children": [
+        {
+          "icon": "Instagram",
+          "url": "https://instagram.com/zeedog.pe",
+          "alt": "Instagram Zee.Dog",
+          "width": 16,
+          "height": 16
+        },
+        {
+          "icon": "Facebook",
+          "alt": "Facebook Zee.Dog",
+          "url": "#",
+          "width": 38,
+          "height": 150
+        }
+      ],
+      "title": "Síguenos"
+    }
+  ],
+  "institutionalLinks": [
+    {
+      "title": "Políticas de privacidad",
+      "url": "/policies/politica-de-privacidad"
+    },
+    {
+      "title": "Términos y condiciones",
+      "url": "/policies/terminos-y-condiciones-del-servicio"
+    },
+    {
+      "title": "Políticas de devoluciones",
+      "url": "/policies/politica-de-reembolso"
+    },
+    {
+      "title": "Políticas de envío",
+      "url": "/policies/politica-de-envio"
+    },
+    {
+      "title": "Información de contacto",
+      "url": "/policies/informacion-de-contacto"
+    }
+  ],
+  "paymentMethods": {
+    "items": [
+      {
+        "icon": "PaymentVisa",
+        "width": 36,
+        "height": 36
+      },
+      {
+        "icon": "PaymentMastercard",
+        "width": 36,
+        "height": 36
+      },
+      {
+        "icon": "PaymentDiners",
+        "width": 36,
+        "height": 36
+      },
+      {
+        "icon": "PaymentAmex",
+        "width": 36,
+        "height": 36
+      }
+    ],
+    "title": "Métodos de Pago",
+    "mode": "gray"
+  },
+  "talkToUs": {
+    "openingHours": {
+      "label": "Horario de atención:",
+      "result": "<p>Lunes a viernes</p><p>09:00 a. m. – 06:00 p. m.</p><p>(Excepto fines de semana y feriados)</p>"
+    },
+    "title": "Habla con nosotros",
+    "email": "info@zeedog.pe"
+  },
+  "athenaContent": {
+    "faqContent": {
+      "__resolveType": "faq"
+    },
+    "department": "zeedog",
+    "isBlackFriday": false,
+    "whatsappContent": {
+      "cta": {
+        "label": "Abrir WhatsApp",
+        "link": "https://wa.me/51950923289"
+      },
+      "assistanceMessage": "¿Necesitas ayuda? Contáctanos.",
+      "qrCodeInstruction": "O escanee el código QR a continuación con la cámara de su teléfono para abrir la aplicación:",
+      "phoneNumber": "+51 950923289",
+      "qrCodeImage": {
+        "src": "https://assets.decocache.com/zeedog-peru/1b03bce5-d370-44ec-9240-55b6a5d9fb1d/gTAgN0.svg",
+        "alt": "Whatsapp Qr Code"
+      }
+    }
+  },
+  "title": [],
+  "children": [],
+  "company": {
+    "name": "Zee.Dog",
+    "cnpj": "",
+    "address": "Av Manuel Olguin 571, Oficina 101, Santiago de Surco, Lima, Perú"
+  },
+  "selectedMenuItem": "chat",
+  "texts": {
+    "sizeQuestionText": "¿Pregunta?",
+    "orderStatusText": "Estado del Pedido",
+    "frequentlyAskedQuestionsText": "Preguntas Frecuentes",
+    "helpText": "Ayuda",
+    "connectingDogsAndPeopleText": "Zee.Dog connects dogs and people",
+    "selectPetBreedText": "Selecciona la raza de tu mascota",
+    "emptyBreedSelectorText": "Selector de raza vacío",
+    "questionsAboutSizeText": "¿Dudas sobre el tamaño?",
+    "accountLoginText": "Iniciar sesión",
+    "ordersContentLoginText": "Inicia sesión para monitorear tus pedidos:",
+    "sizeContentSuggestionText": "Esta es solo una sugerencia, basada en los tamaños más comprados por raza.",
+    "recommendedMeasuresText": "<p>Medidas recomendadas para perros adultos. Si tu perro es un cachorro, elige la <strong>raza con un tamaño similar al tamaño actual de tu perro.</strong> Recomendamos medir con una cinta de costura a tu perro para que obtengas la medida correctas.</p>",
+    "leash-text": "Correas",
+    "leash_ruff-text": "Correa con Amortiguador",
+    "collar-text": "Collares",
+    "fly_harness-text": "Arnés FlyHarness",
+    "meshplus-text": "Arnés Air Mesh",
+    "air_mesh-text": "Arnés Air Mesh Ajustable",
+    "stepin-text": "Arnés / Arnés H",
+    "soft_walk-text": "Arnés Antitirones",
+    "t_shirt-text": "Camiseta",
+    "sweater-text": "Sudadera",
+    "languageCode": "es"
+  },
+  "complaintsBook": {
+    "image": {
+      "source": "https://assets.decocache.com/zeedog-peru/c74c7b27-f9ab-4911-9c24-7bf7803c925f/libro-de-reclamaciones.png",
+      "alt": "Libro de Reclamaciones",
+      "width": 120,
+      "height": 80
+    },
+    "url": "/pages/libro-de-reclamaciones",
+    "title": "Libro de Reclamaciones"
+  }
+}

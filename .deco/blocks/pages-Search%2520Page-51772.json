@@ -1,0 +1,52 @@
+{
+  "name": "Search Page",
+  "path": "/search",
+  "sections": [
+    {
+      "__resolveType": "site/sections/Site/seo/SeoPLPV2.tsx",
+      "jsonLD": {
+        "__resolveType": "Product Listing Page - Loader"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Modal.tsx"
+    },
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "site/sections/SearchResult.tsx",
+      "page": {
+        "__resolveType": "Product Listing Page - Loader"
+      },
+      "search": {
+        "placeholder": "¿Qué estás buscando?"
+      },
+      "texts": {
+        "shelfPageText": "Página:",
+        "shelfPrepositionText": "de",
+        "shelfPreviousPageText": "Anterior",
+        "shelfNextPageText": "Próxima",
+        "shelfOrderText": "ORDENAR",
+        "price-descending": "Precio más alto",
+        "price-ascending": "Precio más bajo",
+        "best-selling": "Más vendidos",
+        "created-descending": "Más recientes",
+        "soldOutText": "Agotado",
+        "addToCartText": "Añadir al carrito",
+        "searchNotFoundText": "Lo sentimos, no se encontraron resultados",
+        "searchNotFoundQueryText": " para:",
+        "searchNotFoundSeeAlsoText": "Ver también:",
+        "searchNotFoundTypoSuggestionText": "Comprueba si hay errores tipográficos en el término buscado.",
+        "searchNotFoundUrlTypoSuggestionText": "Comprueba si hay errores en el enlace de la página.",
+        "startingAtText": "Desde",
+        "bestSeller": "Más vendido",
+        "newProduct": "Nuevo"
+      }
+    },
+    {
+      "__resolveType": "Footer"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}

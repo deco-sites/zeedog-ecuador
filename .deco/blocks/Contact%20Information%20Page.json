@@ -1,0 +1,43 @@
+{
+  "__resolveType": "website/flags/multivariate/section.ts",
+  "variants": [
+    {
+      "value": {
+        "__resolveType": "site/sections/MultiPages.tsx",
+        "sections": [
+          {
+            "__resolveType": "site/sections/Site/seo/SeoV3.tsx",
+            "title": "Información de contacto",
+            "description": "Contáctenos para preguntas sobre nuestros productos, servicios o pedidos. Estamos aquí para ayudar.",
+            "canonical": "https://www.zeedog.pe/policies/informacion-de-contacto",
+            "alternateLanguages": []
+          },
+          {
+            "__resolveType": "Modal"
+          },
+          {
+            "__resolveType": "Header"
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Institutional/AboutUs.tsx",
+              "htmlContent": "<p><span style=\"color: rgba(18, 18, 18, 0.75); font-size: 16px\"><strong>Morada de faturação</strong><br>Av. Manuel Olguín 571, escritório 101, Lima 15023, Peru</span></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"mailto:facturacion@zeedog.pe\"><span style=\"color: rgba(18, 18, 18, 0.75); font-size: 16px\">Email: facturacion@zeedog.pe</span></a></p>",
+              "title": "Información de contacto"
+            }
+          },
+          {
+            "__resolveType": "Footer"
+          }
+        ]
+      },
+      "rule": {
+        "__resolveType": "website/matchers/pathname.ts",
+        "case": {
+          "type": "Equals",
+          "pathname": "/policies/informacion-de-contacto"
+        }
+      }
+    }
+  ]
+}

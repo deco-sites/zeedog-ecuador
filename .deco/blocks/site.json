@@ -1,0 +1,77 @@
+{
+  "__resolveType": "site/apps/site.ts",
+  "platform": "shopify",
+  "global": [
+    {
+      "__resolveType": "website/sections/Analytics/Analytics.tsx",
+      "trackingIds": [],
+      "googleAnalyticsIds": []
+    },
+    {
+      "__resolveType": "analytics/sections/Analytics/DecoAnalytics.tsx"
+    }
+  ],
+  "commerce": {
+    "platform": "other"
+  },
+  "caching": {
+    "directives": []
+  },
+  "firstByteThresholdMS": false,
+  "abTesting": {
+    "replaces": [],
+    "includeScriptsToHead": {
+      "includes": []
+    },
+    "includeScriptsToBody": {
+      "includes": []
+    }
+  },
+  "routes": [
+    {
+      "__resolveType": "shopify/loaders/proxy.ts",
+      "extraPathsToProxy": [
+        "/private_access_tokens",
+        "/private_access_tokens*",
+        "/wpm*",
+        "/pages/libro-de-reclamaciones"
+      ],
+      "includeSiteMap": [],
+      "excludePathsFromDecoSiteMap": [],
+      "replaces": [
+        {
+          "from": "https://k38vhs-hm.myshopify.com/checkouts/unstable/graphql",
+          "to": "https://www.zeedog.pe/checkouts/unstable/graphql"
+        },
+        {
+          "from": "https://k38vhs-hm.myshopify.com/",
+          "to": "https://www.zeedog.pe/"
+        },
+        {
+          "from": "https://k38vhs-hm.myshopify.com",
+          "to": "https://www.zeedog.pe"
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/loaders/pages.ts"
+    },
+    {
+      "__resolveType": "website/loaders/redirects.ts"
+    }
+  ],
+  "flavor": {
+    "framework": "fresh"
+  },
+  "seo": {
+    "titleTemplate": "%s | Zee.Dog",
+    "descriptionTemplate": "%s | Zee.Dog",
+    "type": "website",
+    "description": "Accesorios para perros y gatos con el exclusivo diseño de Zee.Dog. Compra collares, correas y arneses que combinan practicidad, seguridad, comodidad y para todos los tamaños.",
+    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/c3251fbe-80da-4047-a1d9-434fec93710e",
+    "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/72b6b058-dff7-42a5-8ab6-c8ce4e661c93",
+    "themeColor": "#FFFFFF",
+    "noIndexing": false,
+    "title": "Zee.Dog"
+  }
+}

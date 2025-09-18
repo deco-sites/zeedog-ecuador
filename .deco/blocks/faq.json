@@ -1,0 +1,152 @@
+{
+  "__resolveType": "site/loaders/faq.ts",
+  "faqContent": [
+    {
+      "icon": "Truck",
+      "accordion": [
+        {
+          "title": "¿Puedo cambiar el método de envío de un pedido ya finalizado?",
+          "content": "Desafortunadamente, una vez confirmado el pedido, no es posible cambiar el método de envío elegido. Esto se debe a que el pedido se procesa inmediatamente para su selección y embalaje, lo que hace imposible realizar cambios. Por lo tanto, te invitamos a verificar cuidadosamente toda la información, incluido el método de envío, antes de confirmar el pedido."
+        },
+        {
+          "title": "Quiero rastrear mi pedido, ¿dónde puedo encontrar el código de seguimiento?",
+          "content": "<p>Para rastrear tu pedido y verificar su estado, revisa el correo electrónico que utilizaste durante la compra. Tan pronto como el pedido sea procesado, recibirás un correo de confirmación. Si el correo no está en tu bandeja de entrada, revisa las carpetas de spam o basura, o busca 'Zee.Dog' en todas las carpetas.</p>\n<p>Recuerda que nos pondremos en contacto para coordinar la entrega. Si tienes alguna duda, estamos aquí para ayudarte; contáctanos al correo <a href=\"mailto:pedidos@zeedog.pe\">pedidos@zeedog.pe</a></p>",
+          "hasHtmlTag": true
+        },
+        {
+          "title": "Ingresé la dirección de entrega incorrecta para mi pedido, ¿puedo cambiarla?",
+          "content": "<p>Si te das cuenta de que ingresaste una dirección de entrega incorrecta, puedes intentar cambiarla. Si el pedido aún no ha sido procesado o enviado, contáctanos lo antes posible por correo electrónico a <a href=\"mailto:pedidos@zeedog.pe\"><b>pedidos@zeedog.pe</b></a>, especificando 'Cambio de Dirección' en el asunto. Incluye tu nombre, número de pedido y la nueva dirección de entrega. Nuestro equipo hará todo lo posible para actualizar la dirección, pero ten en cuenta que el cambio puede no estar garantizado y podría afectar los tiempos de entrega.</p>\n<p>Si no se puede cambiar la dirección, deberás esperar a que el pedido sea devuelto a nuestro centro de distribución. Una vez recibido, nos pondremos en contacto contigo para confirmar la nueva dirección y reenviar el paquete. Recuerda que este proceso puede llevar tiempo y afectar la fecha de entrega.</p>",
+          "hasHtmlTag": true
+        },
+        {
+          "title": "¿Cuánto tiempo tarda en enviarse un pedido?",
+          "content": "<p>El tiempo de nuestro envío Estándar es entre 1 y 3 días útiles para Lima y entre 3 a 5 días útiles para provincias luego de procesar la orden. Si el usuario opta por el envío Gratis, debe tener en cuenta que este se realizará de 7 a 10 días hábiles o de escoger el envío Express el pedido deberá ser realizado y pagado entre las 9:00 a.m. y 6:00 p.m. en días hábiles para enviarse al siguiente día hábil. Estas dos últimas modalidades de envío son válidas solo para Lima Metropolitana.</p>\n\n<p>Los pedidos realizados durante los fines de semana y días feriados se procesarán al día hábil siguiente.</p>\n\n<p>Los productos serán entregados de lunes a viernes de 09:00 a 18:00 horas, no se realizarán entregas los sábados, domingos ni feriados.</p>\n\n<p>Si tu compra fue realizada durante los días de hot sale, cyber monday o en rebajas, el plazo de entrega puede ser superior al habitual.</p>\n\n<p>Las entregas a destinos con accesibilidad limitada pueden tardar más tiempo de lo especificado.</p>\n<p>Los pedidos realizados durante el fin de semana se procesan el lunes siguiente.</p>\n<p>Para los pedidos pagados por transferencia bancaria, los tiempos de procesamiento y envío comienzan desde la recepción del crédito.</p>",
+          "hasHtmlTag": true
+        },
+        {
+          "title": "La fecha de entrega ha pasado pero mi pedido no ha llegado, ¿qué debo hacer?",
+          "content": "<p>¡Contáctanos! Envía un correo electrónico a <a href=\"mailto:pedidos@zeedog.pe\">pedidos@zeedog.pe.</a> ¡Te ayudaremos y resolveremos el problema lo antes posible!</p>",
+          "hasHtmlTag": true
+        },
+        {
+          "title": "¿Qué opciones de envío ofrece Zee.Dog?",
+          "content": "Zee.Dog.pe ofrece tres modalidades de envío: Gratis en Lima Metropolitana, con un tiempo de entrega de 7 a 10 días hábiles; Estándar, que demora de 1 a 3 días hábiles en Lima y de 3 a 5 días hábiles en provincias con un costo de S/ 15.00; y Express, disponible solo en Lima Metropolitana, que permite recibir el pedido al siguiente día hábil por S/ 26.00 siempre que la compra se realice y pague entre las 9:00 a.m. y 6:00 p.m. en días hábiles.",
+          "hasHtmlTag": false
+        }
+      ],
+      "mainTitle": "Entregas"
+    },
+    {
+      "icon": "RefreshArrow",
+      "accordion": [
+        {
+          "title": "¿Cómo funciona la política de devoluciones de Zee.Dog?",
+          "hasHtmlTag": true,
+          "content": "En Zeedog.pe puedes solicitar el cambio de tu producto siempre que esté sin uso, conserve su empaque original y presentes el comprobante de compra. Si el producto presenta un defecto de fábrica, deberás reportarlo dentro de las 48 horas posteriores a la entrega escribiendo a info@zeedog.pe o pedidos@zeedog.pe, adjuntando una foto y un video del artículo."
+        },
+        {
+          "title": "Compré según la recomendación de tamaño del sitio y no encaja, ¿puedo cambiarlo?",
+          "content": "<p>¡Por supuesto! Puedes realizar un intercambio siguiendo nuestra política de intercambio.</p>\n<p>Sin embargo, te recordamos la importancia de verificar las medidas reales de tu perro o gato antes de realizar una compra para asegurarte de seleccionar el tamaño más adecuado.</p>\n<p>Las recomendaciones de tamaño en nuestro sitio se basan en sugerencias generales para perros adultos y pueden variar según las características específicas de cada animal.</p>",
+          "hasHtmlTag": true
+        },
+        {
+          "title": "¿Los costos de envío para el cambio o devolución son mi responsabilidad?",
+          "content": "Sí, los costos de envío para cambios o devoluciones son responsabilidad del cliente. Puedes realizar un cambio o  dentro de las 48 horas posteriores a la recepción del pedido, utilizando el transportista de tu elección para el envío del producto.\n\nEn caso de un error de nuestra parte, como el envío de un producto incorrecto o diferente al pedido, los costos de envío serán completamente nuestra responsabilidad.",
+          "hasHtmlTag": false
+        },
+        {
+          "title": "Compré en una tienda de mascotas que revende Zee.Dog, ¿puedo hacer un cambio o devolución?",
+          "content": "En este caso, el cambio o devolución debe solicitarse directamente en la tienda donde realizaste la compra, siguiendo la política de cambio o devolución de la tienda. Recomendamos contactar a la tienda para obtener más información y soporte."
+        },
+        {
+          "title": "Compré en el sitio web y necesito hacer un intercambio, ¿puedo ir a un quiosco o tienda de Zee.Dog?",
+          "content": "<p>Desafortunadamente, no. Las compras realizadas en nuestro sitio web deben manejarse exclusivamente a través de los procedimientos de devolución en línea. Por favor, contacta a nuestro equipo en <a href=\"mailto:eontaneda@gmail.com\">eontaneda@gmail.com</a>, quienes estarán encantados de ayudarte con el proceso de intercambio.</p>",
+          "hasHtmlTag": true
+        }
+      ],
+      "mainTitle": "Cambios y devoluciones"
+    },
+    {
+      "icon": "MyAccount",
+      "accordion": [
+        {
+          "title": "¿Cómo puedo usar un cupón de descuento?",
+          "content": "¡Usar un cupón de descuento es fácil! Cuando agregues un producto al carrito, encontrarás el campo \"añadir cupón\" en la esquina inferior derecha de la pantalla. Ingresa el código del cupón y haz clic en \"añadir\" para aplicarlo.",
+          "hasHtmlTag": false
+        },
+        {
+          "title": "¿Puedo agregar o eliminar productos de un pedido ya finalizado?",
+          "content": "<p>Desafortunadamente, una vez finalizado, no es posible modificar el contenido de un pedido agregando o eliminando productos.</p>\n<p>Si necesitas realizar un cambio por uno o más productos, por favor contáctanos en <a href=\"mailto:pedidos@zeedog.pe\">pedidos@zeedog.pe</a>: nuestro equipo estará encantado de ayudarte con el procedimiento.</p>",
+          "hasHtmlTag": true
+        },
+        {
+          "title": "Mi pedido ya ha sido finalizado, pero quiero cancelarlo. ¿Puedo hacerlo?",
+          "content": "<p>Sí, es posible cancelar un pedido finalizado y recibir un reembolso automáticamente, siempre que el pedido no haya sido procesado o enviado.</p>\n<p>Si el pedido ya ha sido procesado o enviado, ya no será posible cancelarlo. </p>",
+          "hasHtmlTag": true
+        },
+        {
+          "title": "Realicé un pedido y ya pagué, pero la compra no aparece en mi perfil, ¿qué debo hacer?",
+          "content": "<p>Si realizaste un pedido y el pago fue exitoso, pero la compra no aparece en mi correo, puede haber ocurrido un error durante el inicio de sesión, como ingresar un correo electrónico incorrecto. ¡No te preocupes, estamos aquí para ayudarte!</p>\n<p>Para resolver el problema, envía un correo electrónico a <a href=\"mailto:pedidos@zeedog.pe\">pedidos@zeedog.pe</a>, describiendo el caso e incluyendo el número de pedido y el monto pagado. Nuestro equipo localizará tu compra y te guiará en la resolución del problema.</p>",
+          "hasHtmlTag": true
+        }
+      ],
+      "mainTitle": "Mis Pedidos"
+    },
+    {
+      "icon": "Discount",
+      "accordion": [
+        {
+          "title": "¿Cómo funciona la política de intercambio de Zee.Dog durante los períodos promocionales?",
+          "content": "Incluso durante los períodos promocionales, nuestra política de intercambio permanece sin cambios. Esta elección refleja nuestro compromiso de garantizar la transparencia y mantener la confianza de nuestros clientes en todo momento del año.",
+          "hasHtmlTag": false
+        }
+      ],
+      "mainTitle": "Períodos promocionales"
+    },
+    {
+      "icon": "Box",
+      "accordion": [
+        {
+          "title": "Además del sitio web, ¿dónde puedo encontrar productos de Zee.Dog?",
+          "content": "Además de nuestro sitio web, puedes encontrar productos de Zee.Dog en las mejores tiendas de mascotas de tu ciudad. "
+        },
+        {
+          "title": "¿Cómo debo limpiar mis productos de Zee.Dog?",
+          "content": "- Collares, correas y arneses: Remoja los productos en una mezcla de agua y jabón suave. Durante el secado, asegúrate de dejarlos a la sombra para preservar los materiales.\n\n- Fundas de Zee.bed: Puedes lavarlas en la lavadora utilizando el ciclo delicado. Evita usar suavizantes y blanqueadores. Para el secado, deja los materiales a la sombra.\n\n- Camas y alfombrillas: Usa un paño humedecido con una mezcla de agua y jabón suave para limpiarlos. El secado debe hacerse a la sombra, al igual que con otros productos.\n"
+        }
+      ],
+      "mainTitle": "Sobre Nuestros Productos"
+    },
+    {
+      "icon": "SpecialDiscount",
+      "accordion": [
+        {
+          "title": "Política de revisión y reemplazo por defectos de fábrica",
+          "hasHtmlTag": true,
+          "content": "En Zeedog.pe nos aseguramos de que recibas productos en perfectas condiciones. Si alguno presenta un defecto de fabricación, podrás solicitar una revisión dentro de las 48 horas posteriores a haber recibido el producto.\n\nEsta revisión no aplica en casos de uso inadecuado, desgaste natural con el tiempo, negligencia, accidentes o el uso en conjunto con objetos que comprometan la integridad del artículo.\n\nPara iniciar el proceso, contáctanos al correo pedidos@zeedog.pe, adjuntando 2 fotos y/o un video donde se muestre claramente el defecto. Nuestro equipo evaluará el material enviado para validar la solicitud; si es necesario, podremos solicitar el envío físico del producto para un análisis más detallado.\n\nEn caso de confirmarse el defecto, el producto será reemplazado por uno nuevo e idéntico. Si este no estuviera disponible, se entregará un artículo de características similares. "
+        }
+      ],
+      "mainTitle": "Productos Defectuosos",
+      "shouldStartOpen": true
+    },
+    {
+      "icon": "PinLocation",
+      "accordion": [
+        {
+          "title": "Quiero revender productos de Zee.Dog, ¿con quién debo hablar?",
+          "content": "<p>Contamos con una red de ejecutivos de ventas locales que cubren gran parte del territorio nacional. Para identificar al responsable de tu zona y recibir la información que necesitas, por favor contáctanos al correo <a href=\"mailto:ventas@zeedod.pe\">ventas@zeedog.pe.</a></p>",
+          "hasHtmlTag": true
+        },
+        {
+          "title": "Me gustaría convertirme en distribuidor de productos de Zee.Dog, ¿qué debo hacer?",
+          "content": "Para temas relacionados con la distribución de productos Zee.dog, por favor comunícate directamente con nuestro equipo de ventas a través del correo ventas@zeedog.pe"
+        },
+        {
+          "title": "Me gustaría abrir una franquicia de Zee.Dog, ¿qué debo hacer?",
+          "content": "Para temas relacionados con franquicias, por favor comunícate directamente con nuestro equipo especializado al correo ventas@zeedog.pe"
+        }
+      ],
+      "mainTitle": "Comercial"
+    }
+  ]
+}

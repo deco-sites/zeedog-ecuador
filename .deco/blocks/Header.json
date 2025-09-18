@@ -1,0 +1,427 @@
+{
+  "__resolveType": "site/sections/Header.tsx",
+  "departmentMenus": [
+    {
+      "departmentName": "zeedog",
+      "menu": [
+        {
+          "menuNews": [],
+          "menuColumns": [],
+          "categoryLink": {},
+          "submenuBanner": "",
+          "menuItem": {
+            "url": "/collections/todos-los-productos",
+            "text": "Perros",
+            "imgsrc": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/38b125b8-3975-4347-8a21-962376406fe1"
+          },
+          "submenuColumns": [
+            {
+              "submenuGroups": [
+                {
+                  "submenuGroupItems": [
+                    {
+                      "url": "/collections/correas",
+                      "text": "Correas",
+                      "isNew": false,
+                      "imgsrc": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/b42733b3-6740-4c5f-a682-7ad18a3034ec"
+                    },
+                    {
+                      "url": "/collections/correas-con-amortiguador",
+                      "text": "Correas amortiguadoras",
+                      "isNew": false,
+                      "imgsrc": "https://assets.decocache.com/zeedog-peru/8a76db25-ce60-4fa5-8cd5-b3e90279446c/RUFF.webp"
+                    },
+                    {
+                      "url": "/collections/correas-manos-libres",
+                      "text": "Correas manos libres",
+                      "isNew": false,
+                      "imgsrc": "https://assets.decocache.com/zeedog-peru/df83cf6c-b3e4-4c5b-8eba-168307bc08d5/HANDSFREE.webp"
+                    },
+                    {
+                      "url": "/collections/correas-largas",
+                      "text": "Correas largas",
+                      "imgsrc": "https://assets.decocache.com/zeedog-peru/866c5022-0216-43a8-a7ea-b23920b29057/LONG.webp"
+                    },
+                    {
+                      "url": "/collections/correas-ultraligeras",
+                      "text": "Correas ultraligeras",
+                      "isNew": false,
+                      "imgsrc": "https://assets.decocache.com/zeedog-peru/bb2d8c3d-3bf5-42e8-a8d5-fdf33be23b4b/ULTRALIGERAS.webp"
+                    },
+                    {
+                      "url": "/collections/correas-de-cuerda",
+                      "text": "Correas de cuerda",
+                      "imgsrc": "https://assets.decocache.com/zeedog-peru/deae755f-92a8-43a3-b7d8-bc93479e3769/CUERDA.webp"
+                    },
+                    {
+                      "url": "/collections/correas-clasicas",
+                      "text": "Correas clásicas",
+                      "imgsrc": "https://assets.decocache.com/zeedog-peru/6826578b-c8a8-4039-9111-54346c70b249/correas-clasicas.webp"
+                    },
+                    {
+                      "url": "/collections/todos-los-arneses",
+                      "text": "Arneses",
+                      "imgsrc": "https://assets.decocache.com/zeedog-peru/742700bf-0317-4bcd-9ab2-4ddca64837a1/ARNESES-IMAGEN-WEB.webp"
+                    },
+                    {
+                      "text": "Arneses antitirones",
+                      "url": "/collections/arneses-anti-tirones",
+                      "isNew": false,
+                      "imgsrc": "https://assets.decocache.com/zeedog-peru/7075caa8-0aa8-41fa-a525-c561a5d08b77/ANTITIRONES.webp"
+                    },
+                    {
+                      "text": "Arneses en H",
+                      "url": "/collections/arneses-en-h",
+                      "imgsrc": "https://assets.decocache.com/zeedog-peru/79550276-cf1a-46f9-a7ca-5872d8f09285/ARNESES.webp"
+                    },
+                    {
+                      "text": "Pecheras",
+                      "url": "/collections/pecheras",
+                      "imgsrc": "https://assets.decocache.com/zeedog-peru/0b61f589-15d5-4e59-85e2-fb731a1116da/PECHERAS.webp"
+                    },
+                    {
+                      "text": "Collares",
+                      "url": "/collections/collares",
+                      "isNew": false,
+                      "imgsrc": "https://assets.decocache.com/zeedog-peru/168f3387-d131-4825-866e-01929c436fc2/COLLARES.webp"
+                    },
+                    {
+                      "text": "Cinturón para correr Zee.Run",
+                      "url": "/products/zee-run-belt",
+                      "imgsrc": "https://assets.decocache.com/zeedog-peru/8bd060e2-e311-4a02-9efe-7eba4ac3de72/ZEE.RUN.webp"
+                    }
+                  ],
+                  "submenuHeadingItem": {
+                    "url": "/collections/todos-los-productos",
+                    "text": "Accesorios",
+                    "imgsrc": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/d4b90d67-3e42-49e8-be7b-1a70013d6601"
+                  }
+                }
+              ],
+              "bottomSVG": {},
+              "leftVerticalBar": false
+            },
+            {
+              "submenuGroups": [
+                {
+                  "submenuGroupItems": [
+                    {
+                      "url": "/collections/polos",
+                      "text": "Polos",
+                      "imgsrc": "https://assets.decocache.com/zeedog-peru/822a1f44-3347-4139-89b1-5d89abe1b108/polos.webp"
+                    },
+                    {
+                      "url": "/collections/abrigos-para-perros",
+                      "imgsrc": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/10dc94e1-32df-4cc4-a053-c0f0adaa5488",
+                      "text": "Abrigos"
+                    }
+                  ],
+                  "submenuHeadingItem": {
+                    "url": "/collections/ropa-para-perros",
+                    "text": "Ropa",
+                    "imgsrc": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/b53245a3-b54a-424d-b4e3-6f2d9a1c7876"
+                  }
+                },
+                {
+                  "submenuGroupItems": [
+                    {
+                      "text": "Lanzadores",
+                      "url": "/collections/juguetes-lanzadores",
+                      "imgsrc": "https://assets.decocache.com/zeedog-peru/0e106c3c-b078-4554-b93f-158d1165c413/TIRADORES.webp"
+                    },
+                    {
+                      "text": "Mordedores",
+                      "url": "/collections/juguetes-para-mordedores",
+                      "imgsrc": "https://assets.decocache.com/zeedog-peru/adedbc98-a782-467a-b7ff-5c2a7163153d/MORDEDORES.webp"
+                    },
+                    {
+                      "text": "Dispensador de snacks",
+                      "url": "/collections/dispensador-de-snacks",
+                      "imgsrc": "https://assets.decocache.com/zeedog-peru/fae1d2ca-d8b0-46b6-8d41-efda1b607949/DISPENSADORES.webp"
+                    },
+                    {
+                      "text": "Peluches",
+                      "url": "/collections/peluche",
+                      "imgsrc": "https://assets.decocache.com/zeedog-peru/bf18e0d4-4390-4852-842f-02b5fced730e/PELUCHES.webp"
+                    },
+                    {
+                      "text": "Para jalar",
+                      "url": "/collections/juguetes-para-jalar",
+                      "imgsrc": "https://assets.decocache.com/zeedog-peru/ccc93052-3eab-42df-adb1-717b26a092dd/JALADORES.webp"
+                    }
+                  ],
+                  "submenuHeadingItem": {
+                    "url": "/collections/juguetes",
+                    "text": "Juguetes",
+                    "imgsrc": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/105b8836-e32a-4108-a38a-373f9d9d7f27"
+                  }
+                },
+                {
+                  "submenuGroupItems": [
+                    {
+                      "text": "Fundas para tag",
+                      "url": "/collections/fundas-para-tag",
+                      "imgsrc": "https://assets.decocache.com/zeedog-peru/5ac90e3c-4d0b-43aa-ab3b-799341c4a1b6/novidades-_samsung-tags.gif"
+                    },
+                    {
+                      "url": "/collections/zee-pinz",
+                      "text": "Zee.Pinz",
+                      "isNew": false,
+                      "imgsrc": "https://assets.decocache.com/zeedog-peru/a3526dd4-d99f-432c-b40e-8c0b72f88b2b/ZEE.PINZ.webp"
+                    },
+                    {
+                      "text": "Llaveros",
+                      "url": "/collections/llaveros"
+                    }
+                  ],
+                  "submenuHeadingItem": {
+                    "text": "Complementos",
+                    "isNew": false,
+                    "url": "/collections/complementos",
+                    "imgsrc": "https://assets.decocache.com/zeedog-peru/c3b45192-6cfb-4770-ab11-0ca18a02c13b/COMPLEMENTOS.webp"
+                  }
+                }
+              ]
+            },
+            {
+              "submenuGroups": [
+                {
+                  "submenuGroupItems": [
+                    {
+                      "text": "Camas",
+                      "url": "/collections/camas",
+                      "imgsrc": "https://assets.decocache.com/zeedog-peru/86eb2368-8357-48da-9e00-739065b2a2ea/86bcbbb9-aeb8-44d7-9a5f-9c3f3643cc04.gif"
+                    },
+                    {
+                      "text": "Camas elevadas",
+                      "url": "/collections/camas-elevadas",
+                      "imgsrc": "https://assets.decocache.com/zeedog-peru/27441fff-76d9-4402-8c83-e88ae717dd10/CAMAS-ELEVADAS.webp"
+                    },
+                    {
+                      "text": "Cobertores de cama",
+                      "url": "/collections/cobertores-de-cama",
+                      "imgsrc": "https://assets.decocache.com/zeedog-peru/5bf60ec5-fe03-4f34-a03b-e98260a3a081/FUNDAS.webp"
+                    }
+                  ],
+                  "submenuHeadingItem": {
+                    "text": "Camas y Cobertores",
+                    "url": "/collections/camas-y-cobertores",
+                    "isNew": false,
+                    "imgsrc": "https://assets.decocache.com/zeedog-peru/9c9afd6d-c381-4bfe-9c96-1fd5fe37fa1d/cama-1.webp"
+                  }
+                },
+                {
+                  "submenuGroupItems": [
+                    {
+                      "text": "Comederos",
+                      "url": "/collections/comederos",
+                      "imgsrc": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/52601668-4d79-4afd-a9b5-02323da776bf",
+                      "isNew": false
+                    },
+                    {
+                      "url": "/collections/comederos-de-acero",
+                      "text": "Comedores de acero",
+                      "imgsrc": "https://assets.decocache.com/zeedog-peru/625ca9c5-7851-42e1-b096-54a014e18d9e/COMEDEROS-DE-ACERO..webp"
+                    },
+                    {
+                      "text": "Comederos de altura regulable",
+                      "url": "/collections/comederos-de-altura-regulable",
+                      "imgsrc": "https://assets.decocache.com/zeedog-peru/9ee4fa50-425a-40f1-8948-c542834096b6/COMEDEROS-REGULABLES.webp"
+                    },
+                    {
+                      "text": "Comederos clasicos",
+                      "url": "/collections/comederos-clasicos",
+                      "imgsrc": "https://assets.decocache.com/zeedog-peru/38dcbf0c-8927-4537-ab01-ae5d8d294e92/COMEDEROS-CLASICOS.webp"
+                    },
+                    {
+                      "text": "Comederos de viaje",
+                      "url": "/collections/comederos-de-viaje",
+                      "imgsrc": "https://assets.decocache.com/zeedog-peru/833194e9-24ed-4aa3-a429-032177a22ecb/COMEDERO-DE-VIAJE.webp"
+                    },
+                    {
+                      "text": "Bandejas para comederos",
+                      "url": "/collections/bandeja-para-comederos",
+                      "imgsrc": "https://assets.decocache.com/zeedog-peru/fc2e79aa-9022-4d8d-ade4-2e06953ca054/BANDEJAS-PARA-COMEDEROS.webp"
+                    }
+                  ],
+                  "submenuHeadingItem": {
+                    "text": "Comederos y Bandejas",
+                    "imgsrc": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/f81ee943-8236-43d7-878c-8d4ae68c32e8",
+                    "url": "/collections/comederos-y-bandejas"
+                  }
+                },
+                {
+                  "submenuGroupItems": [
+                    {
+                      "url": "/collections/dispensadores-de-bolsas-higienicas",
+                      "text": "Dispensadores de bolsas higiénicas",
+                      "imgsrc": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/de363fd0-20c9-47e6-952f-a60762050881"
+                    }
+                  ],
+                  "submenuHeadingItem": {
+                    "text": "Higiene",
+                    "url": "/collections/accesorios-de-higiene",
+                    "imgsrc": "https://assets.decocache.com/zeedog-peru/1d9180fc-167b-4a84-861c-604e190b6679/HIGIENE-.webp"
+                  }
+                }
+              ]
+            }
+          ],
+          "submenuCollections": [],
+          "url": {
+            "url": "/collections/todos-los-productos",
+            "text": "Perros",
+            "imgsrc": "/https://deco-sites-assets.s3.sa-east-1.amazonaws.com/zeedog/6b7a874c-c65e-4624-8cc5-cc9ba2745278/2022-zeedog-menu-cachorros.png"
+          }
+        },
+        {
+          "menuNews": [],
+          "menuColumns": [],
+          "categoryLink": {},
+          "submenuBanner": "",
+          "menuItem": {
+            "url": "/collections/todos-los-productos-para-gatos",
+            "text": "Gatos",
+            "imgsrc": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/b5fffa6b-0f1f-4eb8-9bb0-aaecb808cbfc"
+          },
+          "submenuColumns": [
+            {
+              "submenuGroups": [
+                {
+                  "submenuGroupItems": [],
+                  "submenuHeadingItem": {
+                    "url": "/collections/collares-para-gatos",
+                    "text": "Collares",
+                    "isNew": false,
+                    "imgsrc": "https://assets.decocache.com/zeedog-peru/ead2c8f4-3ccf-4877-8287-4b30c76e10d0/COLLARES-GATO.webp"
+                  }
+                },
+                {
+                  "submenuGroupItems": [],
+                  "submenuHeadingItem": {
+                    "text": "Camas",
+                    "url": "/collections/camas-1",
+                    "imgsrc": "https://assets.decocache.com/zeedog-peru/19b08164-0b49-4520-8f0e-a9b8aa346573/CAMAS-DE-GATO.webp"
+                  }
+                },
+                {
+                  "submenuGroupItems": [],
+                  "submenuHeadingItem": {
+                    "text": "Arneses y correas",
+                    "url": "/collections/arnes-y-correa-para-gatos",
+                    "imgsrc": "https://assets.decocache.com/zeedog-peru/b2e12697-d38e-43d3-befc-1728f3a9a0f1/ARNES-Y-CORREA-GATO.webp"
+                  }
+                },
+                {
+                  "submenuGroupItems": [],
+                  "submenuHeadingItem": {
+                    "text": "Juguetes",
+                    "url": "/collections/juguetes-para-gato",
+                    "imgsrc": "https://assets.decocache.com/zeedog-peru/f1975842-f5d2-4016-bff9-3934906359c6/JUGUETES.webp"
+                  }
+                },
+                {
+                  "submenuGroupItems": [],
+                  "submenuHeadingItem": {
+                    "text": "Rascadores",
+                    "url": "/collections/rascadores",
+                    "imgsrc": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/9f1f0452-73db-4299-b134-a93f00321f25"
+                  }
+                },
+                {
+                  "submenuGroupItems": [],
+                  "submenuHeadingItem": {
+                    "text": "Comederos",
+                    "url": "/collections/comederos-de-gato",
+                    "imgsrc": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/a96845d1-7624-45a6-9756-1bae32cd2a00"
+                  }
+                },
+                {
+                  "submenuGroupItems": [],
+                  "submenuHeadingItem": {
+                    "text": "Bolsos de transporte",
+                    "url": "/collections/bolsos-de-transporte",
+                    "imgsrc": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/991e04f7-4fcc-421b-8e2c-f8f0bf882831"
+                  }
+                }
+              ]
+            }
+          ],
+          "submenuCollections": []
+        }
+      ]
+    }
+  ],
+  "mostWantedLinks": [
+    {
+      "url": "/collections/todos-los-arneses",
+      "text": "Arneses"
+    },
+    {
+      "text": "Correas con amortiguador",
+      "url": "/collections/correas-con-amortiguador"
+    },
+    {
+      "text": "Correas manos libres",
+      "url": "/collections/correas-manos-libres"
+    },
+    {
+      "text": "Comederos",
+      "url": "/collections/comederos"
+    }
+  ],
+  "search": {
+    "openText": "Buscar",
+    "closeText": "Cerrar",
+    "placeholder": "¿Qué estás buscando?",
+    "bestSellerText": "Más vendidos",
+    "mostSearchedText": "Más buscados",
+    "bestSellerUrl": "/collections/todos-los-productos?sort=best-selling"
+  },
+  "account": {
+    "registerText": "Regístrate",
+    "loginText": "Iniciar sesión",
+    "myProfileText": "Mi Perfil",
+    "myProfileExitText": "Salir",
+    "language": "es"
+  },
+  "bag": {
+    "emptyBagText": "Tu bolsa está vacía.",
+    "continueShoppingText": "Seguir comprando:",
+    "title": "BOLSA",
+    "subtotalText": "Subtotal",
+    "totalText": "Total",
+    "checkoutText": "PAGO",
+    "deleteProductText": "¿Estás seguro de que deseas eliminar el producto de tu <br class='hidden md:flex' /> carrito?",
+    "productCartTexts": {
+      "removeProductFromCartText": "ELIMINAR PRODUCTO",
+      "doNotRemoveProductFromCartText": "NO ELIMINAR"
+    }
+  },
+  "coupon": {
+    "couponTitle": "Cupón",
+    "changeCouponText": "Cambiar cupón",
+    "invalidCouponErrorText": "El cupón ingresado no es válido o ha expirado.",
+    "couponErrorText": "El cupón ingresado no es válido o ha expirado.",
+    "addCouponText": "Añadir",
+    "addCouponButtonText": "Añadir",
+    "couponInputPlaceholder": "Cupón",
+    "cancelCouponText": "Cancelar"
+  },
+  "submenuTexts": {
+    "seeAllText": "Ver todo"
+  },
+  "shippingBar": {
+    "theyAreMissingText": "Faltan",
+    "completedFreeShippingText": "¡Felicidades! ¡El envío es gratis!",
+    "forFreeShippingText": "para envío gratuito",
+    "freeShippingStartText": "Envío gratuito desde"
+  },
+  "productCardTexts": {
+    "soldOutText": "Agotado",
+    "addToCartText": "Añadir al carrito",
+    "startingAtText": "Desde",
+    "newProduct": "Nuevo",
+    "bestSeller": "Más vendido"
+  }
+}

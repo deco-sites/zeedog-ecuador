@@ -1,0 +1,41 @@
+{
+  "__resolveType": "website/flags/multivariate/section.ts",
+  "variants": [
+    {
+      "value": {
+        "__resolveType": "site/sections/MultiPages.tsx",
+        "sections": [
+          {
+            "__resolveType": "site/sections/Site/seo/SeoV3.tsx",
+            "title": "Política de Reembolso",
+            "description": "Consulta nuestra Política de Reembolso para saber cómo funcionan las devoluciones, cambios y reembolsos en Zee.Dog Italy. Transparencia y seguridad para tus compras online.",
+            "canonical": "https://www.zeedog.pe/policies/politica-de-reembolso",
+            "alternateLanguages": []
+          },
+          {
+            "__resolveType": "Modal"
+          },
+          {
+            "__resolveType": "Header"
+          },
+          {
+            "__resolveType": "site/sections/Institutional/RefundPolicy.tsx",
+            "title": "Políticas de devoluciones",
+            "languageCode": "ES",
+            "countryCode": "ES"
+          },
+          {
+            "__resolveType": "Footer"
+          }
+        ]
+      },
+      "rule": {
+        "__resolveType": "website/matchers/pathname.ts",
+        "case": {
+          "type": "Equals",
+          "pathname": "/policies/politica-de-reembolso"
+        }
+      }
+    }
+  ]
+}

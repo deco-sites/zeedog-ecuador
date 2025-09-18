@@ -1,0 +1,41 @@
+{
+  "__resolveType": "website/flags/multivariate/section.ts",
+  "variants": [
+    {
+      "value": {
+        "__resolveType": "site/sections/MultiPages.tsx",
+        "sections": [
+          {
+            "__resolveType": "site/sections/Site/seo/SeoV3.tsx",
+            "title": "Política de Envío",
+            "description": "Consulta nuestra Política de Envío: información sobre plazos, costes y métodos de entrega de pedidos en Zee.Dog Italy. Envíos rápidos y seguros para tus compras online.",
+            "canonical": "https://www.zeedog.pe/policies/politica-de-envio",
+            "alternateLanguages": []
+          },
+          {
+            "__resolveType": "Modal"
+          },
+          {
+            "__resolveType": "Header"
+          },
+          {
+            "__resolveType": "site/sections/Institutional/ShippingPolicy.tsx",
+            "title": "Política de Envío",
+            "languageCode": "ES",
+            "countryCode": "ES"
+          },
+          {
+            "__resolveType": "Footer"
+          }
+        ]
+      },
+      "rule": {
+        "__resolveType": "website/matchers/pathname.ts",
+        "case": {
+          "type": "Equals",
+          "pathname": "/policies/politica-de-envio"
+        }
+      }
+    }
+  ]
+}

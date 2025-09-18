@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/cart",
+    "to": "/checkout",
+    "type": "temporary"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

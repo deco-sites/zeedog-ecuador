@@ -1,0 +1,9 @@
+{
+  "__resolveType": "site/apps/deco/records.ts",
+  "url": "libsql://zeedog-shopify-decocx.turso.io",
+  "authToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "name": "DATABASE_AUTH_TOKEN",
+    "encrypted": "f8341673301c69d82bd69c2a271b907f0814a5ea9d127af06c930c5802cab440ea1b618d0773cc7850528f4245a4d9ceb2f24f46d78d8ceda7d9b9c842e9e840d2c26e563d9cbe1bd01e99ff6e5bf3872c1c75b5dbf2b70275348514afa5f4d7cbbb91938be0b742262c4065e746dbe501adc185ab97fc0615e76507e82f04419abfdf2e5955cc9aeb7f34340248d2ef7f334372f8c4189fe55fe5fbc76ec0465feb8c344914f7d3ece4ca4ad617816eeb45c5affe53bdb38ea7e33668667549812a2b6a928856e198c02c1b2c98097ff65e98609a34c23e0159437f73174122"
+  }
+}

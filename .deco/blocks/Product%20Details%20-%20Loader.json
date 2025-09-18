@@ -1,0 +1,31 @@
+{
+  "__resolveType": "shopify/loaders/ProductDetailsPage.ts",
+  "metafields": [
+    {
+      "namespace": "custom",
+      "key": "product_details"
+    },
+    {
+      "namespace": "custom",
+      "key": "breed"
+    },
+    {
+      "namespace": "custom",
+      "key": "lifestyle_images"
+    },
+    {
+      "namespace": "custom",
+      "key": "similars"
+    },
+    {
+      "namespace": "custom",
+      "key": "product_bundle"
+    }
+  ],
+  "slug": {
+    "__resolveType": "website/functions/requestToParam.ts",
+    "param": "slug"
+  },
+  "languageCode": "ES",
+  "countryCode": "ES"
+}

@@ -1,0 +1,1430 @@
+{
+  "__resolveType": "site/loaders/productType.ts",
+  "productTypeContent": {
+    "__resolveType": "site/loaders/productType.ts",
+    "productTypeContent": [
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "Soporte para Airtag"
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "Colgador de correas"
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "Protector de Cable"
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "comederos de acero",
+        "typeFilter": {
+          "productTypeLabel": "Comederos de Acero",
+          "filterImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/6b07d61c-def8-495f-8fbb-26333d60bdd6",
+          "description": ""
+        }
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "comederos de viaje",
+        "typeFilter": {
+          "productTypeLabel": "Comederos de viaje Go Bowl",
+          "filterImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/00e15af7-2d62-4c63-8213-fd2e863569d4",
+          "description": ""
+        }
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "comederos clásicos",
+        "typeFilter": {
+          "productTypeLabel": "Comederos Clásicos",
+          "filterImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/9572ecc0-c937-4488-9a70-0395d1e0a0d5",
+          "description": ""
+        }
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "Comederos de altura regulable",
+        "typeFilter": {
+          "productTypeLabel": "Comederos de altura regulable",
+          "filterImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/08559622-1d07-407c-a4f4-8fef7797eafa",
+          "description": ""
+        }
+      },
+      {
+        "sizeTable": {
+          "table": [
+            [
+              "",
+              "Ancho de la correa",
+              "Ajuste del cuello"
+            ],
+            [
+              "XS",
+              "1cm",
+              "22 - 33cm"
+            ],
+            [
+              "S",
+              "1,5cm",
+              "31 - 43cm"
+            ],
+            [
+              "M",
+              "2cm",
+              "37 - 53cm"
+            ],
+            [
+              "L",
+              "2,5cm",
+              "45 - 70cm"
+            ]
+          ],
+          "sizeImages": [
+            {
+              "sku": "XS",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/c0858e20-dd10-46c9-8973-fdff6ae9bdd8"
+            },
+            {
+              "sku": "S",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/d0a19a4d-d840-4852-b94e-cd57fa760e88"
+            },
+            {
+              "sku": "M",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/6e795585-860e-4ca8-af8b-e094066978c6"
+            },
+            {
+              "sku": "L",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/61eac2c7-034b-41d3-ba21-762e0d6c3b28"
+            }
+          ]
+        },
+        "productTypeName": "collares clásicos"
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [
+            {
+              "sku": "U",
+              "url": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/zeedog/50814945-199b-4848-b371-2173cc5b0fcb/Zee.Cat-Coleira-Size-Chart-BR.png"
+            }
+          ],
+          "table": [
+            [
+              "",
+              "ANCHO DE LA CORREA",
+              "AJUSTE DEL CUELLO"
+            ],
+            [
+              "U",
+              "1 cm",
+              "20 - 30 cm"
+            ]
+          ]
+        },
+        "productTypeName": "collares clásicos para gatos"
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [
+            {
+              "sku": "U",
+              "url": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/zeedog/50814945-199b-4848-b371-2173cc5b0fcb/Zee.Cat-Coleira-Size-Chart-BR.png"
+            }
+          ],
+          "table": [
+            [
+              "",
+              "ANCHO DE LA CORREA",
+              "AJUSTE DEL CUELLO"
+            ],
+            [
+              "U",
+              "1 cm",
+              "20 - 30 cm"
+            ]
+          ]
+        },
+        "productTypeName": "collares neopro para gatos"
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "Cama para gatos"
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "Camas para perros"
+      },
+      {
+        "sizeTable": {
+          "table": [
+            [
+              "",
+              "Longitud",
+              "Ancho",
+              "Altura"
+            ],
+            [
+              "XS",
+              "71 cm",
+              "60 cm",
+              "16 cm"
+            ],
+            [
+              "M",
+              "90 cm",
+              "70 cm",
+              "18 cm"
+            ],
+            [
+              "L",
+              "120 cm",
+              "85 cm",
+              "21 cm"
+            ]
+          ],
+          "sizeImages": [
+            {
+              "sku": "XS",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/e32cd53d-a248-4af1-afb5-4b13689f44e4"
+            },
+            {
+              "sku": "M",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/7e0260b1-3817-4438-8826-9227392d4a45"
+            },
+            {
+              "sku": "L",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/e948edd0-bc02-4317-bc8e-f27e09551b1c"
+            }
+          ]
+        },
+        "productTypeName": "Cama air.bed",
+        "typeFilter": {
+          "productTypeLabel": "Camas elevadas para perros Air.bed",
+          "filterImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/6a997553-d4d9-4074-8ce1-6c6010f0bf0e",
+          "description": ""
+        }
+      },
+      {
+        "sizeTable": {
+          "table": [
+            [
+              "",
+              "Longitud",
+              "Ancho",
+              "Altura"
+            ],
+            [
+              "XS",
+              "56 cm",
+              "63 cm",
+              "12 cm"
+            ],
+            [
+              "L",
+              "71 cm",
+              "81 cm",
+              "14 cm"
+            ]
+          ],
+          "sizeImages": [
+            {
+              "sku": "XS",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/91e6e287-dfb9-4512-be5f-4b44f92214f8"
+            },
+            {
+              "sku": "L",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/31b741f7-c21b-4a96-bfa0-205f47d9e60a"
+            }
+          ]
+        },
+        "productTypeName": "cama zee.bed",
+        "typeFilter": {
+          "productTypeLabel": "Camas Zee.Bed",
+          "filterImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/2122bd32-2a2c-4f66-a0b7-2beb3670970f",
+          "description": ""
+        }
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "Fundas de cama para perros"
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "cobertores de cama",
+        "typeFilter": {
+          "productTypeLabel": "Cobertores de cama para perros Zee.bed",
+          "filterImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/81a07e22-296e-4520-9738-1b03130f11c9",
+          "description": ""
+        }
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "Soporte para Galaxy Tag"
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "juguetes para lanzar",
+        "typeFilter": {
+          "productTypeLabel": "Juguetes para lanzar",
+          "filterImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/de148422-7149-42b3-9083-df608471484e",
+          "description": "Satisfacen el instinto natural de caza."
+        }
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "Juguetes para mordedores",
+        "typeFilter": {
+          "productTypeLabel": "Juguetes para mordedores",
+          "filterImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/cd76a47a-7e5c-4334-969f-5a9bd46ca94a",
+          "description": "Satisfacen el instinto natural de morder y fomentan hábitos de masticación saludables."
+        }
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "dispensador de snacks",
+        "typeFilter": {
+          "productTypeLabel": "Dispensador de snacks",
+          "filterImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/ec8a0fbf-12ce-4074-aac0-bcba554de42b",
+          "description": "Juguetes con cavidades para rellenar con snacks."
+        }
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "peluches",
+        "typeFilter": {
+          "productTypeLabel": "Peluches",
+          "filterImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/fcaedd7a-0fa3-47bb-aba9-0ab55dc1c3bb",
+          "description": "Hechos de peluche suave y resistente, para mejorar aún más el juego."
+        }
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "Juguetes estimulantes",
+        "typeFilter": {
+          "productTypeLabel": "Juguetes estimulantes",
+          "filterImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/2974fa62-e6ca-4a01-9905-866a6a8ad799",
+          "description": "Desafíos mentales y físicos que ofrecen varios beneficios a los perros."
+        }
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "Juguetes para gatos"
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "Juego para gato"
+      },
+      {
+        "sizeTable": {
+          "table": [
+            [
+              "",
+              "Medidas"
+            ],
+            [
+              "Como correa de mano",
+              "135 cm"
+            ],
+            [
+              "Longitud media",
+              "150 cm"
+            ]
+          ],
+          "sizeImages": [
+            {
+              "sku": "U",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/938d2bcb-a864-426c-8718-6106c7179ef6"
+            }
+          ]
+        },
+        "productTypeName": "Correas manos libres",
+        "typeFilter": {
+          "productTypeLabel": "Correas manos libres",
+          "filterImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/5e40c6c7-ff1f-45ed-bfac-4ec7e86c179a",
+          "description": "La correa más versátil del mundo. Súper ligera y puede usarse de tres maneras."
+        }
+      },
+      {
+        "sizeTable": {
+          "table": [
+            [
+              "Longitud",
+              "Ancho de la correa"
+            ],
+            [
+              "100 cm",
+              "2,5 cm"
+            ],
+            [
+              "150 cm",
+              "2,5 cm"
+            ]
+          ],
+          "sizeImages": [
+            {
+              "sku": "U",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/580d3e0e-70c3-423f-ac99-314375cf101e"
+            }
+          ]
+        },
+        "productTypeName": "Correas Amortiguadoras Ultraligeras",
+        "typeFilter": {
+          "productTypeLabel": "Correas amortiguadoras ultraligeras",
+          "filterImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/b80bfdee-39da-4696-b350-14bf44d72ac0",
+          "description": "Ultra absorción de tirones, con gancho extremadamente ligero y resistente."
+        }
+      },
+      {
+        "sizeTable": {
+          "table": [
+            [
+              "",
+              "Ancho de la correa",
+              "Longitud"
+            ],
+            [
+              "S",
+              "2 cm",
+              "120 cm"
+            ],
+            [
+              "L",
+              "2,5 cm",
+              "120 cm"
+            ]
+          ],
+          "sizeImages": [
+            {
+              "sku": "S",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/0487d1d9-1669-4960-a72d-6dc8d74c231b"
+            },
+            {
+              "sku": "L",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/cb930207-3ab6-4138-ae81-c85bf61c2b90"
+            }
+          ]
+        },
+        "productTypeName": "correas amortiguadoras",
+        "typeFilter": {
+          "productTypeLabel": "Correas amortiguadoras",
+          "filterImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/7c0aee05-69d5-4df0-8b5e-c732509be3f1",
+          "description": "Para perros que tiran mucho."
+        }
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": [
+            [
+              "",
+              "Ancho de la correa",
+              "Longitud"
+            ],
+            [
+              "XS",
+              "1 cm",
+              "120 cm"
+            ],
+            [
+              "S",
+              "1,5 cm",
+              "120 cm"
+            ],
+            [
+              "L",
+              "2,5 cm",
+              "120 cm"
+            ]
+          ]
+        },
+        "productTypeName": "Correas clásicas",
+        "typeFilter": {
+          "productTypeLabel": "Correas clásicas",
+          "filterImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/aca346e3-c4f7-4116-bde4-d76fc3bc9aca",
+          "description": "La correa clásica. Bandas de poliéster suave y gancho resistente."
+        }
+      },
+      {
+        "sizeTable": {
+          "table": [
+            [
+              "",
+              "Longitud"
+            ],
+            [
+              "Talla Única",
+              "120 cm"
+            ]
+          ],
+          "sizeImages": [
+            {
+              "sku": "U",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/a570ea60-015d-4608-b922-f37224886135"
+            }
+          ]
+        },
+        "productTypeName": "Guinzagli di corda",
+        "typeFilter": {
+          "productTypeLabel": "Guinzaglio di corda",
+          "filterImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/1d9a0968-cdac-4642-84b0-1ad1482aa288",
+          "description": "Materiale leggero e confortevole. Indicato per tutti i tipi di cane."
+        }
+      },
+      {
+        "sizeTable": {
+          "table": [
+            [
+              "",
+              "Ancho de la correa",
+              "Longitud"
+            ],
+            [
+              "XS",
+              "1 cm",
+              "120 cm"
+            ],
+            [
+              "S",
+              "1,5 cm",
+              "120 cm"
+            ],
+            [
+              "L",
+              "2,5 cm",
+              "120 cm"
+            ]
+          ],
+          "sizeImages": [
+            {
+              "sku": "XS",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/b67d529b-b1bd-4c3b-b562-0492e4e8f66d"
+            },
+            {
+              "sku": "S",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/4afe0b82-5e3d-4178-b931-a6346b8a554b"
+            },
+            {
+              "sku": "L",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/c574c152-918a-4fc6-b6a6-fb0bcc2673ba"
+            }
+          ]
+        },
+        "productTypeName": "Correas NeoPro",
+        "typeFilter": {
+          "productTypeLabel": "Correas impermeables NeoPro",
+          "filterImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/bac04dd8-cc3d-4391-bbbb-021cbd9a3d13",
+          "description": "Resistente al agua y a las condiciones climáticas."
+        }
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "Correas ultraligeras",
+        "typeFilter": {
+          "productTypeLabel": "Correas ultraligeras Nitleash",
+          "filterImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/71b6d686-0e5b-4ba8-bce7-e422a1e8d919",
+          "description": "La correa más ligera de Zee.Dog"
+        }
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "Correas"
+      },
+      {
+        "sizeTable": {
+          "table": [
+            [
+              "",
+              "Longitud",
+              "Diámetro"
+            ],
+            [
+              "Talla Única",
+              "150 cm",
+              "1 cm"
+            ]
+          ],
+          "sizeImages": [
+            {
+              "sku": "U",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/069b8e9b-d441-43cb-9de9-27c77b6f173b"
+            }
+          ]
+        },
+        "productTypeName": "correas de cuerda",
+        "typeFilter": {
+          "productTypeLabel": "Correas de cuerda",
+          "filterImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/73140631-7d5b-4f1d-999b-82678d12ca9c",
+          "description": "2 en 1: correa y collar en una sola pieza."
+        }
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "ID Tag"
+      },
+      {
+        "sizeTable": {
+          "table": [
+            [
+              "",
+              "Circunferencia del cuello",
+              "Correa ajustable",
+              "Longitud"
+            ],
+            [
+              "XS",
+              "40 cm",
+              "37 - 53 cm",
+              "40 cm"
+            ],
+            [
+              "S",
+              "48 cm",
+              "44 - 64 cm",
+              "48 cm"
+            ],
+            [
+              "M",
+              "56 cm",
+              "46 - 72 cm",
+              "58 cm"
+            ],
+            [
+              "L",
+              "68 cm",
+              "56 - 88 cm",
+              "70 cm"
+            ]
+          ],
+          "sizeImages": [
+            {
+              "sku": "XS",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/ffa056a2-37b3-42bd-8d78-6f5e8cabb203"
+            },
+            {
+              "sku": "S",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/353b963b-6290-42c5-b370-c38e82339d88"
+            },
+            {
+              "sku": "M",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/9e83cf7c-fcc0-4090-9df7-a6c6150c100e"
+            },
+            {
+              "sku": "L",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/cc6573a7-9206-4825-a68a-a7adbc64f40e"
+            }
+          ]
+        },
+        "productTypeName": "Impermeable"
+      },
+      {
+        "sizeTable": {
+          "table": [
+            [
+              "",
+              "Longitud",
+              "Frente",
+              "Pecho"
+            ],
+            [
+              "XXS",
+              "27 cm",
+              "28 - 37 cm",
+              "34 - 46 cm"
+            ],
+            [
+              "XS",
+              "32 cm",
+              "38 - 46 cm",
+              "42 - 56 cm"
+            ],
+            [
+              "S",
+              "40 cm",
+              "45 - 53 cm",
+              "52 - 70 cm"
+            ],
+            [
+              "M",
+              "46 cm",
+              "50 - 60 cm",
+              "60 - 78 cm"
+            ],
+            [
+              "L",
+              "52 cm",
+              "60 - 72 cm",
+              "72 - 90 cm"
+            ]
+          ],
+          "sizeImages": [
+            {
+              "sku": "XXS",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/e50a4a1a-0c62-4d8b-af8d-9b5c34a10bdf"
+            },
+            {
+              "sku": "XS",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/ed582547-4212-49a5-a3ac-77b875dd01a5"
+            },
+            {
+              "sku": "S",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/cb615785-29a9-44a8-be1d-dbadaf94c09d"
+            },
+            {
+              "sku": "M",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/d2721cc5-66f9-49d5-95e2-952d3504ed45"
+            },
+            {
+              "sku": "L",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/0a1d34c8-6aa1-4b81-9532-53197d7e00ef"
+            }
+          ]
+        },
+        "productTypeName": "Cappotti"
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "Key Cap"
+      },
+      {
+        "sizeTable": {
+          "table": [
+            [
+              "",
+              "Longitud",
+              "Ancho"
+            ],
+            [
+              "M",
+              "80 cm",
+              "62 cm"
+            ],
+            [
+              "L",
+              "102 cm",
+              "67 cm"
+            ]
+          ],
+          "sizeImages": [
+            {
+              "sku": "M",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/9ce5ea67-050c-4a40-abfb-9d660eb08344"
+            },
+            {
+              "sku": "L",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/07d41b66-d85d-4198-a984-76c6c040e429"
+            }
+          ]
+        },
+        "productTypeName": "Cama air.mat",
+        "typeFilter": {
+          "productTypeLabel": "Cama Air.Mat",
+          "filterImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/91c0f0db-b19a-4748-b636-820e001ca129",
+          "description": "Cama Air.Mat"
+        }
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "Arnés de malla"
+      },
+      {
+        "sizeTable": {
+          "table": [
+            [
+              "",
+              "Ajuste del cuello",
+              "Ajuste de la barriga"
+            ],
+            [
+              "XS",
+              "19 - 24 cm",
+              "33 - 41 cm"
+            ],
+            [
+              "S",
+              "27 - 32 cm",
+              "41 - 51 cm"
+            ],
+            [
+              "M",
+              "35 - 40 cm",
+              "52 - 62 cm"
+            ],
+            [
+              "L",
+              "43 - 48 cm",
+              "63 - 82 cm"
+            ]
+          ],
+          "sizeImages": [
+            {
+              "sku": "XS",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/422d24c1-7ba2-4527-86e8-64abb2711467"
+            },
+            {
+              "sku": "S",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/9fcee7d5-4416-46ac-8735-ede1ccc65592"
+            },
+            {
+              "sku": "M",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/faf20152-6b70-4927-980e-3e808a70c579"
+            },
+            {
+              "sku": "L",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/4bc9c69f-da29-42fa-8db3-3c52ae2a2760"
+            }
+          ]
+        },
+        "productTypeName": "pecheras clásicas",
+        "typeFilter": {
+          "productTypeLabel": "Pecheras clásicas",
+          "filterImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/68903bb3-20a7-4280-94c9-9512fb37a7bc",
+          "description": "Ajustable en todos los puntos, ofrece soporte y ligereza. No se calienta, ya que tiene una textura ventilada."
+        }
+      },
+      {
+        "sizeTable": {
+          "table": [
+            [
+              "",
+              "Ancho de la correa",
+              "Ajuste del cuello",
+              "Ajuste de la barriga"
+            ],
+            [
+              "XS",
+              "1 cm",
+              "20 - 34 cm",
+              "23 - 38 cm"
+            ],
+            [
+              "S",
+              "1,5 cm",
+              "24 - 38 cm",
+              "32 - 53 cm"
+            ],
+            [
+              "M",
+              "2 cm",
+              "31 - 50 cm",
+              "42 - 69 cm"
+            ],
+            [
+              "L",
+              "2,5 cm",
+              "40 - 67 cm",
+              "62 - 107 cm"
+            ]
+          ],
+          "sizeImages": [
+            {
+              "sku": "XS",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/cceab118-c5bb-48f6-a13b-089f68764586"
+            },
+            {
+              "sku": "S",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/a3b43416-69d9-4c31-a6e2-5018950bc59f"
+            },
+            {
+              "sku": "M",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/fb2182c5-45ba-4ea5-b8ed-9ae9e28895db"
+            },
+            {
+              "sku": "L",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/b704a670-17fe-47bf-a7ec-a579cf9383f2"
+            }
+          ]
+        },
+        "productTypeName": "arneses en h",
+        "typeFilter": {
+          "productTypeLabel": "Arneses en H",
+          "filterImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/48c9bc85-c42e-48be-830e-0fefa0f34234",
+          "description": "Versatilidad para todos los tamaños. Altamente ajustable, tiene dos posiciones para enganchar la correa."
+        }
+      },
+      {
+        "sizeTable": {
+          "table": [
+            [
+              "",
+              "Ajuste del pecho",
+              "Ajuste de la cintura"
+            ],
+            [
+              "XS",
+              "24 cm",
+              "29 - 41 cm"
+            ],
+            [
+              "S",
+              "32 cm",
+              "33,5 - 50 cm"
+            ],
+            [
+              "M",
+              "40 cm",
+              "40 - 59 cm"
+            ],
+            [
+              "L",
+              "48 cm",
+              "67 - 102 cm"
+            ]
+          ],
+          "sizeImages": [
+            {
+              "sku": "XS",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/d8ed65e5-1abf-4a08-87bd-70466aedb800"
+            },
+            {
+              "sku": "S",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/862dfa81-cf0c-4c72-9977-e0a60b01dfa2"
+            },
+            {
+              "sku": "M",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/d55ecced-4a1f-4e85-920b-acb56ec0b6b0"
+            },
+            {
+              "sku": "L",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/d1e0cfc7-e172-4b1c-922e-909be31d2474"
+            }
+          ]
+        },
+        "productTypeName": "Arnés Air Mesh",
+        "typeFilter": {
+          "productTypeLabel": "Air Mesh",
+          "filterImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/3c2ba983-b96b-4d8b-9a92-8905bcb7b47d",
+          "description": "Para quienes prefieren ventilación y soporte. Ajustable en la cintura."
+        }
+      },
+      {
+        "sizeTable": {
+          "table": [
+            [
+              "",
+              "Ancho de la correa",
+              "Ajuste del torso",
+              "Ajuste del pecho"
+            ],
+            [
+              "S",
+              "1,5 cm",
+              "50 - 77,5 cm",
+              "31 - 38,5 cm"
+            ],
+            [
+              "M",
+              "2 cm",
+              "62 - 98 cm",
+              "33,5 - 40 cm"
+            ],
+            [
+              "L",
+              "2,5 cm",
+              "66,5 - 105 cm",
+              "36 - 47 cm"
+            ]
+          ],
+          "sizeImages": [
+            {
+              "sku": "S",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/23775758-910b-41d5-a9f7-6bb1cbddbdba"
+            },
+            {
+              "sku": "M",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/03b104e9-228d-417d-b3ea-e0c92242a241"
+            },
+            {
+              "sku": "L",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/47439a8e-bcac-4d27-b981-1cc22436e097"
+            }
+          ]
+        },
+        "productTypeName": "arneses antitirones clásicos",
+        "typeFilter": {
+          "productTypeLabel": "Arneses Antitirones",
+          "filterImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/bd52531f-0b8e-4e8e-aab2-5e5e446b97a3",
+          "description": "Para perros medianos y grandes que tiran mucho."
+        }
+      },
+      {
+        "sizeTable": {
+          "table": [
+            [
+              "",
+              "Ajuste del cuello",
+              "Ajuste frontal"
+            ],
+            [
+              "S",
+              "24 - 26 cm",
+              "41 - 54 cm"
+            ],
+            [
+              "M",
+              "33 - 40 cm",
+              "61 - 80 cm"
+            ],
+            [
+              "L",
+              "42 - 50 cm",
+              "78 - 106 cm"
+            ]
+          ],
+          "sizeImages": [
+            {
+              "sku": "S",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/d85ae310-6282-48cf-9e56-881df65bd099"
+            },
+            {
+              "sku": "M",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/d2d0ee05-514e-4d8c-9d51-ef23ac8c7468"
+            },
+            {
+              "sku": "L",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/ff8c7c02-30e0-4110-99a9-334ee997ed28"
+            }
+          ]
+        },
+        "productTypeName": "Arneses Antitirones SofterWalk"
+      },
+      {
+        "sizeTable": {
+          "table": [
+            [
+              "",
+              "Ajuste del pecho"
+            ],
+            [
+              "XS",
+              "34 - 45 cm"
+            ],
+            [
+              "S",
+              "43 - 65 cm"
+            ],
+            [
+              "M",
+              "55 - 77 cm"
+            ],
+            [
+              "L",
+              "62 - 86 cm"
+            ],
+            [
+              "XL",
+              "73 - 103 cm"
+            ]
+          ],
+          "sizeImages": [
+            {
+              "sku": "XS",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/3496ae36-c09d-4a28-9b34-9b8633a8bf4a"
+            },
+            {
+              "sku": "S",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/d62efd2a-dee7-42ba-91e0-2fb515713dcc"
+            },
+            {
+              "sku": "M",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/9e0a02e8-2791-4176-be58-03bd0d21a5db"
+            },
+            {
+              "sku": "L",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/53ea93a0-e316-4183-8d99-c726181daa54"
+            },
+            {
+              "sku": "XL",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/13ec1824-16f8-4497-bb33-9af68efceef2"
+            }
+          ]
+        },
+        "productTypeName": "arneses antitirones con asa",
+        "typeFilter": {
+          "productTypeLabel": "Arneses Antitirones con Asa",
+          "filterImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/e0a0e20f-63dc-4017-9f14-5e2fe4024741",
+          "description": "Perfecto para cualquier ocasión, con detalles reflectantes y asa que permite un mayor control."
+        }
+      },
+      {
+        "sizeTable": {
+          "table": [
+            [
+              "",
+              "Ancho de la correa",
+              "Ajuste del cuello",
+              "Ajuste de la cintura"
+            ],
+            [
+              "XS",
+              "1 cm",
+              "20 - 34 cm",
+              "23 - 38 cm"
+            ],
+            [
+              "S",
+              "1,5 cm",
+              "24 - 38 cm",
+              "32 - 53 cm"
+            ],
+            [
+              "M",
+              "2 cm",
+              "31 - 50 cm",
+              "42 - 69 cm"
+            ],
+            [
+              "L",
+              "2,5 cm",
+              "40 - 67 cm",
+              "62 - 107 cm"
+            ]
+          ],
+          "sizeImages": [
+            {
+              "sku": "XS",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/cceab118-c5bb-48f6-a13b-089f68764586"
+            },
+            {
+              "sku": "S",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/a3b43416-69d9-4c31-a6e2-5018950bc59f"
+            },
+            {
+              "sku": "M",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/fb2182c5-45ba-4ea5-b8ed-9ae9e28895db"
+            },
+            {
+              "sku": "L",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/b704a670-17fe-47bf-a7ec-a579cf9383f2"
+            }
+          ]
+        },
+        "productTypeName": "arneses en h neopro",
+        "typeFilter": {
+          "productTypeLabel": "Arneses en H NeoPro",
+          "filterImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/6fea30fd-01db-4484-986c-c0d464903147",
+          "description": "Resistente al agua y a las condiciones climáticas."
+        }
+      },
+      {
+        "sizeTable": {
+          "table": [
+            [
+              "",
+              "Ajuste del cuello",
+              "Ajuste frontal"
+            ],
+            [
+              "S",
+              "24 - 26 cm",
+              "41 - 54 cm"
+            ],
+            [
+              "M",
+              "33 - 40 cm",
+              "61 - 80 cm"
+            ],
+            [
+              "L",
+              "42 - 50 cm",
+              "78 - 106 cm"
+            ]
+          ],
+          "sizeImages": [
+            {
+              "sku": "S",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/d85ae310-6282-48cf-9e56-881df65bd099"
+            },
+            {
+              "sku": "M",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/d2d0ee05-514e-4d8c-9d51-ef23ac8c7468"
+            },
+            {
+              "sku": "L",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/ff8c7c02-30e0-4110-99a9-334ee997ed28"
+            }
+          ]
+        },
+        "productTypeName": "Arnés antitirones",
+        "typeFilter": {
+          "productTypeLabel": "Arnés antitirones",
+          "filterImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/f72f3710-5941-4c74-9f8f-5a839576ac91",
+          "description": "Para perros que tiran mucho. Con dos posiciones para enganchar la correa, ofrece seguridad y comodidad."
+        }
+      },
+      {
+        "sizeTable": {
+          "table": [
+            [
+              "",
+              "Ancho de la correa",
+              "Circunferencia del pecho"
+            ],
+            [
+              "S",
+              "1,5 cm",
+              "35 - 45 cm"
+            ],
+            [
+              "M",
+              "2 cm",
+              "45 - 65 cm"
+            ],
+            [
+              "L",
+              "2,5 cm",
+              "55 - 80 cm"
+            ]
+          ],
+          "sizeImages": [
+            {
+              "sku": "S",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/28567f6e-960c-455e-a14c-2028bd2047da"
+            },
+            {
+              "sku": "M",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/60a9a5ec-58db-449b-9264-7bbf4695983b"
+            },
+            {
+              "sku": "L",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/920a64c3-3864-4d1b-af96-88f044d2922a"
+            }
+          ]
+        },
+        "productTypeName": "Arneses Step-in",
+        "typeFilter": {
+          "productTypeLabel": "Arneses Step-in",
+          "filterImage": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/zeedog/f2e9bac9-e623-49f5-b8c5-a16c55d26b55/step-in.svg",
+          "description": ""
+        }
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "Pinz"
+      },
+      {
+        "sizeTable": {
+          "table": [
+            [
+              "",
+              "Altura",
+              "Ancho"
+            ],
+            [
+              "Dispensador de bolsas",
+              "9,7 cm",
+              "4,2 cm"
+            ],
+            [
+              "Bolsa",
+              "33 cm",
+              "23 cm"
+            ]
+          ],
+          "sizeImages": [
+            {
+              "sku": "Dispensador de bolsas",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/8567a182-13ac-411b-8d23-7aa5bd9233c1"
+            },
+            {
+              "sku": "Bolsa",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/2aa923cf-b79e-43e2-9c57-b9bdbcd2377c"
+            }
+          ]
+        },
+        "productTypeName": "dispensadores de bolsas higiénicas"
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "Llavero"
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "Arneses y Correas para Gatos"
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "Snowboard 4"
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "Sticker"
+      },
+      {
+        "sizeTable": {
+          "table": [
+            [
+              "",
+              "Ancho",
+              "Largo"
+            ],
+            [
+              "Talla Única",
+              "32,1 cm",
+              "43,5 cm"
+            ]
+          ],
+          "sizeImages": [
+            {
+              "sku": "U",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/a72a587e-9daf-44c9-87a3-e60d3fb16477"
+            }
+          ]
+        },
+        "productTypeName": "Bandejas para comederos"
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "Rascadores para gatos"
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "Repuesto de Panel Rascador para Gatos"
+      },
+      {
+        "sizeTable": {
+          "table": [
+            [
+              "",
+              "Longitud",
+              "Ancho"
+            ],
+            [
+              "Talla Única",
+              "40 cm",
+              "60 cm"
+            ]
+          ],
+          "sizeImages": [
+            {
+              "sku": "U",
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/419ecaf1-c887-4229-b58f-8dd417928d57"
+            }
+          ]
+        },
+        "productTypeName": "Empapadores"
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "bolsos de transporte"
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "zee.pinz para collar y correa clásicos"
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "zee.pinz para correas de cuerda"
+      },
+      {
+        "sizeTable": {
+          "sizeImages": [],
+          "table": []
+        },
+        "productTypeName": "cinturón de correr zee.run"
+      }
+    ]
+  }
+}

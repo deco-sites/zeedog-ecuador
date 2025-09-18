@@ -1,0 +1,12 @@
+{
+  "__resolveType": "site/apps/deco/shopify.ts",
+  "adminAccessToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "encrypted": "267db276fcd5a433a2ea0aca181d7ca41dce73825b1efa703530ece1f353eb3b0550d5c4b4150d8c4133e85b5d1fb37a",
+    "name": "SHOPIFY_ACCESS_TOKEN"
+  },
+  "platform": "shopify",
+  "storeName": "k38vhs-hm",
+  "storefrontAccessToken": "d8dd6f067345e5feb53d4547137d4f69",
+  "publicUrl": "https://k38vhs-hm.myshopify.com"
+}

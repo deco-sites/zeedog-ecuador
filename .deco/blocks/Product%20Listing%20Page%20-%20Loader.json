@@ -1,0 +1,13 @@
+{
+  "__resolveType": "shopify/loaders/ProductListingPage.ts",
+  "metafields": [
+    {
+      "namespace": "custom",
+      "key": "hover_image"
+    }
+  ],
+  "count": 12,
+  "pageOffset": 1,
+  "languageCode": "ES",
+  "countryCode": "ES"
+}

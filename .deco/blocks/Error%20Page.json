@@ -1,0 +1,24 @@
+{
+  "__resolveType": "website/flags/multivariate/section.ts",
+  "variants": [
+    {
+      "value": {
+        "__resolveType": "site/sections/MultiPages.tsx",
+        "sections": [
+          {
+            "__resolveType": "site/sections/ErrorPage.tsx",
+            "title": "Página no encontrada",
+            "description": "La página que buscas no existe o puede haber sido movida.",
+            "backToHome": {
+              "text": "Volver al inicio",
+              "href": "/"
+            }
+          }
+        ]
+      },
+      "rule": {
+        "__resolveType": "website/matchers/always.ts"
+      }
+    }
+  ]
+}

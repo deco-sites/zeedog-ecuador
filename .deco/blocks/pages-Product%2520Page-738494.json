@@ -1,0 +1,1111 @@
+{
+  "name": "Product Page",
+  "path": "/products/:slug",
+  "sections": [
+    {
+      "__resolveType": "site/sections/Site/seo/SeoPDPV2.tsx",
+      "jsonLD": {
+        "__resolveType": "Product Details - Loader"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Modal.tsx"
+    },
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "site/sections/Product/ProductDetailsPage.tsx",
+      "page": {
+        "__resolveType": "Product Details - Loader"
+      },
+      "productSizeList": [
+        {
+          "category": "collare",
+          "sizeTables": [
+            {
+              "table": [
+                [
+                  "",
+                  "Larghezza della cinghia",
+                  "Regolazione del collo"
+                ],
+                [
+                  "XXS",
+                  "1cm",
+                  "22 - 33cm"
+                ],
+                [
+                  "XS",
+                  "1,5cm",
+                  "31 - 43cm"
+                ],
+                [
+                  "S",
+                  "2cm",
+                  "37 - 53cm"
+                ],
+                [
+                  "M",
+                  "2,5cm",
+                  "45 - 70cm"
+                ]
+              ],
+              "images": [
+                {
+                  "sku": "XXS",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/c0858e20-dd10-46c9-8973-fdff6ae9bdd8"
+                },
+                {
+                  "sku": "XS",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/d0a19a4d-d840-4852-b94e-cd57fa760e88"
+                },
+                {
+                  "sku": "S",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/6e795585-860e-4ca8-af8b-e094066978c6"
+                },
+                {
+                  "sku": "M",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/61eac2c7-034b-41d3-ba21-762e0d6c3b28"
+                }
+              ],
+              "subcategory": ""
+            }
+          ]
+        },
+        {
+          "category": "guinzagli",
+          "sizeTables": [
+            {
+              "table": [
+                [
+                  "",
+                  "Misure"
+                ],
+                [
+                  "Come guinzaglio a mano",
+                  "135 cm"
+                ],
+                [
+                  "Lunghezza media",
+                  "150 cm"
+                ]
+              ],
+              "images": [
+                {
+                  "sku": "U",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/938d2bcb-a864-426c-8718-6106c7179ef6"
+                }
+              ],
+              "subcategory": "Guinzagli a mani libere"
+            },
+            {
+              "table": [
+                [
+                  "",
+                  "Larghezza della cinghia",
+                  "Lunghezza"
+                ],
+                [
+                  "S",
+                  "2 cm",
+                  "120 cm"
+                ],
+                [
+                  "L",
+                  "2,5 cm",
+                  "120 cm"
+                ]
+              ],
+              "images": [
+                {
+                  "sku": "S",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/0487d1d9-1669-4960-a72d-6dc8d74c231b"
+                },
+                {
+                  "sku": "L",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/cb930207-3ab6-4138-ae81-c85bf61c2b90"
+                }
+              ],
+              "subcategory": "Guinzagli ammortizzati"
+            },
+            {
+              "table": [
+                [
+                  "",
+                  "Larghezza della cinghia",
+                  "Lunghezza"
+                ],
+                [
+                  "S",
+                  "2 cm",
+                  "120 cm"
+                ],
+                [
+                  "L",
+                  "2,5 cm",
+                  "120 cm"
+                ]
+              ],
+              "images": [
+                {
+                  "sku": "S",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/127e9409-9e9e-4b83-be61-de03ac7eb3f4"
+                },
+                {
+                  "sku": "L",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/65bfab20-58fa-4b48-a75a-67db11067c64"
+                }
+              ],
+              "subcategory": "con ammortizzatore"
+            },
+            {
+              "table": [
+                [
+                  "",
+                  "Lunghezza"
+                ],
+                [
+                  "Taglia Unica",
+                  "120 cm"
+                ]
+              ],
+              "images": [
+                {
+                  "sku": "U",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/a570ea60-015d-4608-b922-f37224886135"
+                }
+              ],
+              "subcategory": "Guinzaglio di corda"
+            },
+            {
+              "table": [
+                [
+                  "",
+                  "Lunghezza",
+                  "Diametro"
+                ],
+                [
+                  "Taglia Unica",
+                  "150 cm",
+                  "1 cm"
+                ]
+              ],
+              "images": [
+                {
+                  "sku": "U",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/069b8e9b-d441-43cb-9de9-27c77b6f173b"
+                }
+              ],
+              "subcategory": "Guinzaglio di corda unificato"
+            },
+            {
+              "table": [
+                [
+                  "",
+                  "Lunghezza",
+                  "Diametro"
+                ],
+                [
+                  "Taglia Unica",
+                  "100 cm",
+                  "0,2 cm"
+                ]
+              ],
+              "images": [
+                {
+                  "sku": "U",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/b65c6d5b-2f67-4605-b90e-a9984c17066e"
+                }
+              ],
+              "subcategory": "Guinzaglio nitleash"
+            },
+            {
+              "table": [
+                [
+                  "Lunghezza",
+                  "Larghezza della cinghia"
+                ],
+                [
+                  "100 cm",
+                  "2,5 cm"
+                ],
+                [
+                  "150 cm",
+                  "2,5 cm"
+                ]
+              ],
+              "images": [
+                {
+                  "sku": "U",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/580d3e0e-70c3-423f-ac99-314375cf101e"
+                }
+              ],
+              "subcategory": "Guinzaglio airleash"
+            },
+            {
+              "table": [
+                [
+                  "",
+                  "Lunghezza"
+                ],
+                [
+                  "Taglia Unica",
+                  "175 cm - 300 cm"
+                ]
+              ],
+              "images": [
+                {
+                  "sku": "U",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/40200211-d080-4200-8659-4b8461d7d82c"
+                }
+              ],
+              "subcategory": "Guinzaglio lungo"
+            },
+            {
+              "table": [
+                [
+                  "",
+                  "Larghezza della cinghia",
+                  "Lunghezza"
+                ],
+                [
+                  "XS",
+                  "1 cm",
+                  "120 cm"
+                ],
+                [
+                  "S",
+                  "1,5 cm",
+                  "120 cm"
+                ],
+                [
+                  "L",
+                  "2,5 cm",
+                  "120 cm"
+                ]
+              ],
+              "images": [
+                {
+                  "sku": "XS",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/b67d529b-b1bd-4c3b-b562-0492e4e8f66d"
+                },
+                {
+                  "sku": "S",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/4afe0b82-5e3d-4178-b931-a6346b8a554b"
+                },
+                {
+                  "sku": "L",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/c574c152-918a-4fc6-b6a6-fb0bcc2673ba"
+                }
+              ],
+              "subcategory": "Guinzaglio standard"
+            }
+          ]
+        },
+        {
+          "category": "tovaglietta americana",
+          "sizeTables": [
+            {
+              "table": [
+                [
+                  "",
+                  "Larghezza",
+                  "Lunghezza"
+                ],
+                [
+                  "Taglia Unica",
+                  "32,1 cm",
+                  "43,5 cm"
+                ]
+              ],
+              "images": [
+                {
+                  "sku": "U",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/a72a587e-9daf-44c9-87a3-e60d3fb16477"
+                }
+              ],
+              "subcategory": ""
+            }
+          ]
+        },
+        {
+          "category": "pettorine",
+          "sizeTables": [
+            {
+              "table": [
+                [
+                  "",
+                  "Regolazione del petto"
+                ],
+                [
+                  "XS",
+                  "34 - 45 cm"
+                ],
+                [
+                  "S",
+                  "43 - 65 cm"
+                ],
+                [
+                  "M",
+                  "55 - 77 cm"
+                ],
+                [
+                  "L",
+                  "62 - 86 cm"
+                ],
+                [
+                  "XL",
+                  "73 - 103 cm"
+                ]
+              ],
+              "images": [
+                {
+                  "sku": "XS",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/3496ae36-c09d-4a28-9b34-9b8633a8bf4a"
+                },
+                {
+                  "sku": "S",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/d62efd2a-dee7-42ba-91e0-2fb515713dcc"
+                },
+                {
+                  "sku": "M",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/9e0a02e8-2791-4176-be58-03bd0d21a5db"
+                },
+                {
+                  "sku": "L",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/53ea93a0-e316-4183-8d99-c726181daa54"
+                },
+                {
+                  "sku": "XL",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/13ec1824-16f8-4497-bb33-9af68efceef2"
+                }
+              ],
+              "subcategory": "Pettorina flyharness"
+            },
+            {
+              "table": [
+                [
+                  "",
+                  "Larghezza della cinghia",
+                  "Regolazione del collo",
+                  "Regolazione della vita"
+                ],
+                [
+                  "XS",
+                  "1 cm",
+                  "20 - 34 cm",
+                  "23 - 38 cm"
+                ],
+                [
+                  "S",
+                  "1,5 cm",
+                  "24 - 38 cm",
+                  "32 - 53 cm"
+                ],
+                [
+                  "M",
+                  "2 cm",
+                  "31 - 50 cm",
+                  "42 - 69 cm"
+                ],
+                [
+                  "L",
+                  "2,5 cm",
+                  "40 - 67 cm",
+                  "62 - 107 cm"
+                ]
+              ],
+              "images": [
+                {
+                  "sku": "XS",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/cceab118-c5bb-48f6-a13b-089f68764586"
+                },
+                {
+                  "sku": "S",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/a3b43416-69d9-4c31-a6e2-5018950bc59f"
+                },
+                {
+                  "sku": "M",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/fb2182c5-45ba-4ea5-b8ed-9ae9e28895db"
+                },
+                {
+                  "sku": "L",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/b704a670-17fe-47bf-a7ec-a579cf9383f2"
+                }
+              ],
+              "subcategory": "Pettorina ad H"
+            },
+            {
+              "table": [
+                [
+                  "",
+                  "Regolazione del collo",
+                  "Regolazione frontale"
+                ],
+                [
+                  "S",
+                  "24 - 26 cm",
+                  "41 - 54 cm"
+                ],
+                [
+                  "M",
+                  "33 - 40 cm",
+                  "61 - 80 cm"
+                ],
+                [
+                  "L",
+                  "42 - 50 cm",
+                  "78 - 106 cm"
+                ]
+              ],
+              "images": [
+                {
+                  "sku": "S",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/d85ae310-6282-48cf-9e56-881df65bd099"
+                },
+                {
+                  "sku": "M",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/d2d0ee05-514e-4d8c-9d51-ef23ac8c7468"
+                },
+                {
+                  "sku": "L",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/ff8c7c02-30e0-4110-99a9-334ee997ed28"
+                }
+              ],
+              "subcategory": "Pettorina anti-trazione softerwalk"
+            },
+            {
+              "table": [
+                [
+                  "",
+                  "Larghezza della cinghia",
+                  "Regolazione del torace",
+                  "Regolazione del petto"
+                ],
+                [
+                  "S",
+                  "1,5 cm",
+                  "50 - 77,5 cm",
+                  "31 - 38,5 cm"
+                ],
+                [
+                  "M",
+                  "2 cm",
+                  "62 - 98 cm",
+                  "33,5 - 40 cm"
+                ],
+                [
+                  "L",
+                  "2,5 cm",
+                  "66,5 - 105 cm",
+                  "36 - 47 cm"
+                ]
+              ],
+              "images": [
+                {
+                  "sku": "S",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/23775758-910b-41d5-a9f7-6bb1cbddbdba"
+                },
+                {
+                  "sku": "M",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/03b104e9-228d-417d-b3ea-e0c92242a241"
+                },
+                {
+                  "sku": "L",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/47439a8e-bcac-4d27-b981-1cc22436e097"
+                }
+              ],
+              "subcategory": "Pettorina anti-trazione"
+            },
+            {
+              "table": [
+                [
+                  "",
+                  "Regolazione del collo",
+                  "Regolazione della pancia"
+                ],
+                [
+                  "XS",
+                  "19 - 24 cm",
+                  "33 - 41 cm"
+                ],
+                [
+                  "S",
+                  "27 - 32 cm",
+                  "41 - 51 cm"
+                ],
+                [
+                  "M",
+                  "35 - 40 cm",
+                  "52 - 62 cm"
+                ],
+                [
+                  "L",
+                  "43 - 48 cm",
+                  "63 - 82 cm"
+                ]
+              ],
+              "images": [
+                {
+                  "sku": "XS",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/422d24c1-7ba2-4527-86e8-64abb2711467"
+                },
+                {
+                  "sku": "S",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/9fcee7d5-4416-46ac-8735-ede1ccc65592"
+                },
+                {
+                  "sku": "M",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/faf20152-6b70-4927-980e-3e808a70c579"
+                },
+                {
+                  "sku": "L",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/4bc9c69f-da29-42fa-8db3-3c52ae2a2760"
+                }
+              ],
+              "subcategory": "Pettorina air mesh regolabile"
+            },
+            {
+              "table": [
+                [
+                  "",
+                  "Regolazione del torace",
+                  "Regolazione della vita"
+                ],
+                [
+                  "XS",
+                  "24 cm",
+                  "29 - 41 cm"
+                ],
+                [
+                  "S",
+                  "32 cm",
+                  "33,5 - 50 cm"
+                ],
+                [
+                  "M",
+                  "40 cm",
+                  "40 - 59 cm"
+                ],
+                [
+                  "L",
+                  "48 cm",
+                  "67 - 102 cm"
+                ]
+              ],
+              "images": [
+                {
+                  "sku": "XS",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/d8ed65e5-1abf-4a08-87bd-70466aedb800"
+                },
+                {
+                  "sku": "S",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/862dfa81-cf0c-4c72-9977-e0a60b01dfa2"
+                },
+                {
+                  "sku": "M",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/d55ecced-4a1f-4e85-920b-acb56ec0b6b0"
+                },
+                {
+                  "sku": "L",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/d1e0cfc7-e172-4b1c-922e-909be31d2474"
+                }
+              ],
+              "subcategory": "Pettorina air mesh"
+            },
+            {
+              "table": [
+                [
+                  "",
+                  "Larghezza della cinghia",
+                  "Circonferenza del petto"
+                ],
+                [
+                  "S",
+                  "1,5 cm",
+                  "35 - 45 cm"
+                ],
+                [
+                  "M",
+                  "2 cm",
+                  "45 - 65 cm"
+                ],
+                [
+                  "L",
+                  "2,5 cm",
+                  "55 - 80 cm"
+                ]
+              ],
+              "images": [
+                {
+                  "sku": "S",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/28567f6e-960c-455e-a14c-2028bd2047da"
+                },
+                {
+                  "sku": "M",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/60a9a5ec-58db-449b-9264-7bbf4695983b"
+                },
+                {
+                  "sku": "L",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/920a64c3-3864-4d1b-af96-88f044d2922a"
+                }
+              ],
+              "subcategory": "Pettorina Step-in"
+            }
+          ]
+        },
+        {
+          "category": "letti",
+          "sizeTables": [
+            {
+              "table": [
+                [
+                  "",
+                  "Lunghezza",
+                  "Larghezza",
+                  "Altezza"
+                ],
+                [
+                  "XS",
+                  "56 cm",
+                  "63 cm",
+                  "12 cm"
+                ],
+                [
+                  "L",
+                  "71 cm",
+                  "81 cm",
+                  "14 cm"
+                ]
+              ],
+              "images": [
+                {
+                  "sku": "XS",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/91e6e287-dfb9-4512-be5f-4b44f92214f8"
+                },
+                {
+                  "sku": "L",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/31b741f7-c21b-4a96-bfa0-205f47d9e60a"
+                }
+              ],
+              "subcategory": "Letto Zee.Bed"
+            },
+            {
+              "table": [
+                [
+                  "",
+                  "Lunghezza",
+                  "Larghezza",
+                  "Altezza"
+                ],
+                [
+                  "XS",
+                  "56 cm",
+                  "63 cm",
+                  "12 cm"
+                ],
+                [
+                  "L",
+                  "71 cm",
+                  "81 cm",
+                  "14 cm"
+                ]
+              ],
+              "images": [
+                {
+                  "sku": "XS",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/91e6e287-dfb9-4512-be5f-4b44f92214f8"
+                },
+                {
+                  "sku": "L",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/31b741f7-c21b-4a96-bfa0-205f47d9e60a"
+                }
+              ],
+              "subcategory": "coperta per letto"
+            },
+            {
+              "table": [
+                [
+                  "",
+                  "Lunghezza",
+                  "Larghezza",
+                  "Altezza"
+                ],
+                [
+                  "XS",
+                  "71 cm",
+                  "60 cm",
+                  "16 cm"
+                ],
+                [
+                  "M",
+                  "90 cm",
+                  "70 cm",
+                  "18 cm"
+                ],
+                [
+                  "L",
+                  "120 cm",
+                  "85 cm",
+                  "21 cm"
+                ]
+              ],
+              "images": [
+                {
+                  "sku": "XS",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/e32cd53d-a248-4af1-afb5-4b13689f44e4"
+                },
+                {
+                  "sku": "M",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/7e0260b1-3817-4438-8826-9227392d4a45"
+                },
+                {
+                  "sku": "L",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/e948edd0-bc02-4317-bc8e-f27e09551b1c"
+                }
+              ],
+              "subcategory": "Letto air.bed"
+            },
+            {
+              "table": [
+                [
+                  "",
+                  "Lunghezza",
+                  "Larghezza"
+                ],
+                [
+                  "M",
+                  "80 cm",
+                  "62 cm"
+                ],
+                [
+                  "L",
+                  "102 cm",
+                  "67 cm"
+                ]
+              ],
+              "images": [
+                {
+                  "sku": "M",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/9ce5ea67-050c-4a40-abfb-9d660eb08344"
+                },
+                {
+                  "sku": "L",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/07d41b66-d85d-4198-a984-76c6c040e429"
+                }
+              ],
+              "subcategory": "materassino"
+            }
+          ]
+        },
+        {
+          "category": "sacchetti per escrementi",
+          "sizeTables": [
+            {
+              "table": [
+                [
+                  "",
+                  "Altezza",
+                  "Larghezza"
+                ],
+                [
+                  "Porta-sacchetti",
+                  "9,7 cm",
+                  "4,2 cm"
+                ],
+                [
+                  "Sacchetto",
+                  "33 cm",
+                  "23 cm"
+                ]
+              ],
+              "images": [
+                {
+                  "sku": "porta-saquinho",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/8567a182-13ac-411b-8d23-7aa5bd9233c1"
+                },
+                {
+                  "sku": "Saquinho",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/2aa923cf-b79e-43e2-9c57-b9bdbcd2377c"
+                }
+              ],
+              "subcategory": "porta-sacchetti"
+            },
+            {
+              "table": [
+                [
+                  "",
+                  "Altezza",
+                  "Larghezza"
+                ],
+                [
+                  "Sacchetto",
+                  "33 cm",
+                  "23 cm"
+                ]
+              ],
+              "images": [
+                {
+                  "sku": "U",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/c6f3df10-7b18-422e-99f1-db5c4a299aae"
+                }
+              ],
+              "subcategory": "ricarica"
+            }
+          ]
+        },
+        {
+          "category": "abbigliamento",
+          "sizeTables": [
+            {
+              "table": [
+                [
+                  "",
+                  "Circonferenza del collo",
+                  "Cinturino regolabile",
+                  "Lunghezza"
+                ],
+                [
+                  "XS",
+                  "40 cm",
+                  "37 - 53 cm",
+                  "40 cm"
+                ],
+                [
+                  "S",
+                  "48 cm",
+                  "44 - 64 cm",
+                  "48 cm"
+                ],
+                [
+                  "M",
+                  "56 cm",
+                  "46 - 72 cm",
+                  "58 cm"
+                ],
+                [
+                  "L",
+                  "68 cm",
+                  "56 - 88 cm",
+                  "70 cm"
+                ]
+              ],
+              "images": [
+                {
+                  "sku": "XS",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/ffa056a2-37b3-42bd-8d78-6f5e8cabb203"
+                },
+                {
+                  "sku": "S",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/353b963b-6290-42c5-b370-c38e82339d88"
+                },
+                {
+                  "sku": "M",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/9e83cf7c-fcc0-4090-9df7-a6c6150c100e"
+                },
+                {
+                  "sku": "L",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/cc6573a7-9206-4825-a68a-a7adbc64f40e"
+                }
+              ],
+              "subcategory": "impermeabile"
+            },
+            {
+              "table": [
+                [
+                  "",
+                  "Lunghezza",
+                  "Fronte",
+                  "Torace"
+                ],
+                [
+                  "XXS",
+                  "27 cm",
+                  "28 - 37 cm",
+                  "34 - 46 cm"
+                ],
+                [
+                  "XS",
+                  "32 cm",
+                  "38 - 46 cm",
+                  "42 - 56 cm"
+                ],
+                [
+                  "S",
+                  "40 cm",
+                  "45 - 53 cm",
+                  "52 - 70 cm"
+                ],
+                [
+                  "M",
+                  "46 cm",
+                  "50 - 60 cm",
+                  "60 - 78 cm"
+                ],
+                [
+                  "L",
+                  "52 cm",
+                  "60 - 72 cm",
+                  "72 - 90 cm"
+                ]
+              ],
+              "images": [
+                {
+                  "sku": "XXS",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/e50a4a1a-0c62-4d8b-af8d-9b5c34a10bdf"
+                },
+                {
+                  "sku": "XS",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/ed582547-4212-49a5-a3ac-77b875dd01a5"
+                },
+                {
+                  "sku": "S",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/cb615785-29a9-44a8-be1d-dbadaf94c09d"
+                },
+                {
+                  "sku": "M",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/d2721cc5-66f9-49d5-95e2-952d3504ed45"
+                },
+                {
+                  "sku": "L",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/0a1d34c8-6aa1-4b81-9532-53197d7e00ef"
+                }
+              ],
+              "subcategory": "giacca"
+            }
+          ]
+        },
+        {
+          "category": "tappetini igienici",
+          "sizeTables": [
+            {
+              "table": [
+                [
+                  "",
+                  "Lunghezza",
+                  "Larghezza"
+                ],
+                [
+                  "Taglia Unica",
+                  "40 cm",
+                  "60 cm"
+                ]
+              ],
+              "images": [
+                {
+                  "sku": "U",
+                  "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2225/419ecaf1-c887-4229-b58f-8dd417928d57"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sizeTables": [
+            {
+              "images": [
+                {
+                  "sku": "U",
+                  "url": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/zeedog/50814945-199b-4848-b371-2173cc5b0fcb/Zee.Cat-Coleira-Size-Chart-BR.png"
+                }
+              ],
+              "table": [
+                [
+                  "",
+                  "LARGHEZZA DEL NASTRO",
+                  "REGOLAZIONE DEL COLLO"
+                ],
+                [
+                  "U",
+                  "1 cm",
+                  "20 - 30 cm"
+                ]
+              ],
+              "subcategory": ""
+            }
+          ],
+          "category": "collare per gatti"
+        }
+      ],
+      "sizeChart": null,
+      "cmsSizeList": {
+        "productTypeContent": {
+          "__resolveType": "ProductTypes"
+        }
+      },
+      "texts": {
+        "sizesText": "Talla",
+        "startingAtText": "Desde",
+        "addToCartText": "Añadir al carrito",
+        "searchNotFoundText": "Lo sentimos, no se encontraron resultados",
+        "searchNotFoundQueryText": " para:",
+        "searchNotFoundSeeAlsoText": "Ver también:",
+        "searchNotFoundTypoSuggestionText": "Comprueba si hay errores tipográficos en el término buscado.",
+        "searchNotFoundUrlTypoSuggestionText": "Comprueba si hay errores en el enlace de la página.",
+        "amountText": "Cantidad",
+        "detailsText": "Detalles",
+        "descriptionText": "Descripción",
+        "talkToUsText": "Habla con nosotros",
+        "needHelpText": "¿Necesitas ayuda?",
+        "sizeTableText": "Tabla de tallas",
+        "sharedText": "Los productos de Zee son geniales, mira este, es tan genial.",
+        "shareText": "Compartir",
+        "selectPetBreedText": "Selecciona la raza de tu mascota",
+        "emptyBreedSelectorText": "Selector de raza vacío",
+        "questionsAboutSizeText": "¿Dudas sobre el tamaño?",
+        "viewMoreText": "VER MÁS",
+        "soldOutText": "Agotado",
+        "soldOutMessageText": "Este producto está agotado. Pero no te preocupes, te avisaremos si vuelve a estar disponible.",
+        "seeSimilarsProductsText": "VER PRODUCTOS SIMILARES",
+        "lastUnitsText": "ÚLTIMAS UNIDADES",
+        "chooseAnOptionText": "Elige una opción",
+        "newProduct": "Nuevo",
+        "bestSeller": "Más vendido",
+        "freeShippingStartText": "Envío gratuito a partir de",
+        "completedFreeShippingText": "¡Felicidades! El envío corre por nuestra cuenta.",
+        "forFreeShippingText": "para el envío gratuito",
+        "theyAreMissingText": "Faltan",
+        "copyText": "Copiar enlace",
+        "copiedText": "Enlace copiado",
+        "sendByEmailText": "Correo electrónico",
+        "sizeContentSuggestionText": "Esta es solo una sugerencia, basada en los tamaños más comprados por raza.",
+        "recommendedMeasuresText": "<p>Medidas recomendadas para perros adultos. Si tu perro es un cachorro, elige la <strong>raza con un tamaño similar al tamaño actual de tu perro.</strong> Recomendamos medir con una cinta de costura a tu perro para que obtengas la medida correctas.</p>",
+        "linkCopiedText": "Enlace copiado"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/ProductCarousel.tsx",
+        "page": {
+          "__resolveType": "shopify/loaders/RelatedProducts.ts",
+          "count": 8,
+          "metafields": [],
+          "slug": {
+            "__resolveType": "website/functions/requestToParam.ts",
+            "param": "slug"
+          },
+          "languageCode": "ES",
+          "countryCode": "ES"
+        },
+        "productsPerPage": 4,
+        "gaCarouselTitle": "potrebbe-anche-piacerti",
+        "carouselTitleProps": {
+          "title": "Puede que incluso te guste."
+        },
+        "texts": {
+          "soldOutText": "Agotado",
+          "addToCartText": "Añadir al carrito",
+          "startingAtText": "Desde",
+          "newProduct": "Nuevo",
+          "bestSeller": "Más vendido"
+        }
+      }
+    },
+    {
+      "__resolveType": "Footer"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}

@@ -1,0 +1,41 @@
+{
+  "__resolveType": "website/flags/multivariate/section.ts",
+  "variants": [
+    {
+      "value": {
+        "__resolveType": "site/sections/MultiPages.tsx",
+        "sections": [
+          {
+            "__resolveType": "site/sections/Site/seo/SeoV3.tsx",
+            "title": "Términos y condiciones del servicio",
+            "description": "Consulta nuestros Términos y Condiciones de Servicio para descubrir las reglas y políticas que rigen las compras en Zee.Dog Italy. Transparencia y seguridad para tus compras online.",
+            "canonical": "https://www.zeedog.pe/policies/terminos-y-condiciones-del-servicio",
+            "alternateLanguages": []
+          },
+          {
+            "__resolveType": "Modal"
+          },
+          {
+            "__resolveType": "Header"
+          },
+          {
+            "__resolveType": "site/sections/Institutional/TermsOfService.tsx",
+            "title": "Términos y condiciones",
+            "languageCode": "ES",
+            "countryCode": "ES"
+          },
+          {
+            "__resolveType": "Footer"
+          }
+        ]
+      },
+      "rule": {
+        "__resolveType": "website/matchers/pathname.ts",
+        "case": {
+          "type": "Equals",
+          "pathname": "/policies/terminos-y-condiciones-del-servicio"
+        }
+      }
+    }
+  ]
+}

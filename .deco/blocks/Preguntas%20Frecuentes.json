@@ -1,0 +1,46 @@
+{
+  "__resolveType": "website/flags/multivariate/section.ts",
+  "variants": [
+    {
+      "value": {
+        "__resolveType": "site/sections/MultiPages.tsx",
+        "sections": [
+          {
+            "__resolveType": "site/sections/Site/seo/SeoV3.tsx",
+            "title": "Preguntas frecuentes",
+            "description": "Encuentra respuestas a las preguntas más frecuentes sobre productos, pedidos, envíos y soporte. Encuentra la información que necesitas rápidamente y contáctanos si tienes alguna duda.",
+            "canonical": "https://www.zeedog.pe/pages/preguntas-frecuentes",
+            "alternateLanguages": []
+          },
+          {
+            "__resolveType": "Modal"
+          },
+          {
+            "__resolveType": "Header"
+          },
+          {
+            "__resolveType": "site/sections/FAQ.tsx",
+            "faqContent": {
+              "__resolveType": "faq"
+            },
+            "texts": {
+              "frequentlyAskedQuestionsText": "Preguntas frecuentes",
+              "weWillHelpYouText": "¿Tienes alguna pregunta? Estamos aquí para ayudarte. ¿Qué te gustaría saber?",
+              "talkToUsText": "Contáctanos"
+            }
+          },
+          {
+            "__resolveType": "Footer"
+          }
+        ]
+      },
+      "rule": {
+        "__resolveType": "website/matchers/pathname.ts",
+        "case": {
+          "type": "Equals",
+          "pathname": "/pages/preguntas-frecuentes"
+        }
+      }
+    }
+  ]
+}

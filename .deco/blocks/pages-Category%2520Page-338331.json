@@ -1,0 +1,1411 @@
+{
+  "name": "Category Page",
+  "path": "/collections/*",
+  "sections": [
+    {
+      "__resolveType": "site/sections/Site/seo/SeoPLPV2.tsx",
+      "jsonLD": {
+        "__resolveType": "Product Listing Page - Loader"
+      }
+    },
+    {
+      "__resolveType": "Modal"
+    },
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "site/sections/ProductShelf.tsx",
+      "openedFilterModal": false,
+      "shelfFaq": [
+        {
+          "questions": [
+            {
+              "answer": [
+                {
+                  "paragraph": "Las correas para perros tienen el propósito de mantener a los perros seguros y bajo control en lugares públicos y también pueden ayudar en el entrenamiento, siendo una forma efectiva de comunicarse con tu perro."
+                }
+              ],
+              "question": "¿Por qué usar la correa para el perro?"
+            },
+            {
+              "answer": [
+                {
+                  "paragraph": "Elegir el collar adecuado depende del tamaño y el comportamiento de tu perro. Es importante medir con precisión el cuello del perro y dejar espacio para dos dedos entre el collar y el cuello."
+                }
+              ],
+              "question": "¿Cómo elegir el collar adecuado para mi perro?"
+            },
+            {
+              "answer": [
+                {
+                  "paragraph": "Se recomienda lavar regularmente correas y collares con agua tibia y jabón suave, secándolos completamente antes de usarlos. Esto mantiene el accesorio higiénico y prolonga su duración."
+                }
+              ],
+              "question": "¿Cómo cuidar las correas y collares?"
+            }
+          ],
+          "category": "todos-los-productos",
+          "title": "Preguntas frecuentes sobre correas y collares",
+          "description": "Los collares Zee.Dog presentan estampados exclusivos y están disponibles en diferentes tallas, desde la XS hasta la L. Son prácticos y versátiles, se pueden utilizar tanto para paseos como como accesorios de identificación. Vienen en dos modelos: los convencionales, fabricados en poliéster teteron súper resistente, y el Neopro, resistente al agua y perfecto para aventuras en el parque o en la playa."
+        },
+        {
+          "questions": [
+            {
+              "answer": [
+                {
+                  "paragraph": "La longitud ideal de la correa depende del entorno en el que la usarás. Para áreas urbanas, una correa de 1-1,5 metros es óptima, mientras que para el entrenamiento o áreas abiertas, podrías preferir una correa más larga de 2-3 metros."
+                }
+              ],
+              "question": "¿Cuál es la longitud de correa más adecuada?"
+            },
+            {
+              "answer": [
+                {
+                  "paragraph": "Las correas de nylon son duraderas y fáciles de limpiar, mientras que las de cuero ofrecen mayor resistencia y estilo. Para perros que aman el agua, se recomienda optar por materiales impermeables como el neopreno."
+                }
+              ],
+              "question": "¿Cómo elegir el material adecuado para la correa?"
+            },
+            {
+              "answer": [
+                {
+                  "paragraph": "Es importante reemplazar la correa cuando se noten signos de desgaste como deshilachados, partes gastadas o cierres dañados. Una correa dañada puede comprometer la seguridad de tu perro."
+                }
+              ],
+              "question": "¿Cuándo es necesario reemplazar la correa?"
+            }
+          ],
+          "category": "correas",
+          "title": "Preguntas frecuentes sobre correas",
+          "description": "Las correas Zee.Dog están hechas de materiales de alta calidad y vienen en una variedad de longitudes y estilos. Están diseñadas para garantizar comodidad y seguridad al pasear a tu perro, con opciones que van desde correas estándar hasta retráctiles."
+        },
+        {
+          "questions": [
+            {
+              "answer": [
+                {
+                  "paragraph": "Las correas manos libres son ideales para hacer jogging o caminar con el perro, dejando las manos libres para otras actividades. Se colocan alrededor de la cintura y ofrecen mayor comodidad durante la actividad física."
+                }
+              ],
+              "question": "¿Cuáles son las ventajas de las correas manos libres?"
+            },
+            {
+              "answer": [
+                {
+                  "paragraph": "Es importante ajustar correctamente el cinturón en la cintura y asegurarse de que la correa esté bien sujeta. Siempre verifique la resistencia de las hebillas y las costuras antes de usarla."
+                }
+              ],
+              "question": "¿Cómo se usa correctamente una correa manos libres?"
+            }
+          ],
+          "category": "correas-manos-libres",
+          "title": "Preguntas frecuentes sobre correas manos libres",
+          "description": "Las correas manos libres Zee.Dog están diseñadas para garantizar la máxima libertad de movimiento durante las actividades al aire libre con su perro."
+        },
+        {
+          "questions": [
+            {
+              "answer": [
+                {
+                  "paragraph": "Las correas largas son ideales para el entrenamiento y para dar al perro más libertad de movimiento en áreas seguras. La longitud adicional permite al perro explorar mientras se mantiene bajo control."
+                }
+              ],
+              "question": "¿Cuándo utilizar una correa larga?"
+            }
+          ],
+          "category": "correas-largas",
+          "title": "Preguntas frecuentes sobre correas largas y longhinas",
+          "description": "Las correas largas Zee.Dog ofrecen más libertad de movimiento para tu perro manteniendo el control necesario."
+        },
+        {
+          "questions": [
+            {
+              "answer": [
+                {
+                  "paragraph": "Las correas ultraligeras están diseñadas para ofrecer la máxima comodidad a tu perro, reduciendo el peso y garantizando una mayor libertad de movimiento. Son ideales para perros de tamaño pequeño o para quienes buscan una opción ligera y resistente."
+                }
+              ],
+              "question": "¿Cuáles son las ventajas de las correas ultraligeras?"
+            }
+          ],
+          "category": "correas-ultraligeras",
+          "title": "Preguntas frecuentes sobre correas ultraligeras",
+          "description": "Las correas ultraligeras Zee.Dog ofrecen una combinación perfecta de resistencia y ligereza, lo que las hace ideales para paseos cómodos."
+        },
+        {
+          "questions": [
+            {
+              "answer": [
+                {
+                  "paragraph": "Las correas amortiguadas están equipadas con un sistema elástico que ayuda a absorber los tirones repentinos, reduciendo el impacto en el perro y el dueño. Son particularmente útiles para perros enérgicos o para quienes practican actividades al aire libre."
+                }
+              ],
+              "question": "¿Por qué elegir una correa amortiguada?"
+            }
+          ],
+          "category": "correas-con-amortiguador",
+          "title": "Preguntas frecuentes sobre correas amortiguadas",
+          "description": "Las correas amortiguadoras Zee.Dog ofrecen una mayor comodidad durante los paseos, protegiendo al perro y al dueño de tirones repentinos."
+        },
+        {
+          "questions": [
+            {
+              "answer": [
+                {
+                  "paragraph": "Las correas de cuerda están hechas de materiales ultra resistentes y ofrecen un agarre seguro. Son ideales para quienes buscan una correa robusta y duradera, adecuada para cualquier tipo de paseo."
+                }
+              ],
+              "question": "¿Cuáles son los beneficios de una correa de cuerda?"
+            }
+          ],
+          "category": "correas-de-cuerda",
+          "title": "Preguntas frecuentes sobre correas de cuerda",
+          "description": "Las correas de cuerda Zee.Dog combinan resistencia y estilo, perfectas para garantizar la seguridad y el control en cada paseo."
+        },
+        {
+          "questions": [
+            {
+              "answer": [
+                {
+                  "paragraph": "Las correas clásicas son una opción versátil y confiable para los paseos diarios. Ofrecen un equilibrio perfecto entre comodidad, seguridad y diseño."
+                }
+              ],
+              "question": "¿Por qué elegir una correa clásica?"
+            }
+          ],
+          "category": "correas-clasicas",
+          "title": "Preguntas frecuentes sobre correas clásicas",
+          "description": "Las correas clásicas Zee.Dog son una opción elegante y funcional para cualquier perro y situación."
+        },
+        {
+          "questions": [
+            {
+              "answer": [
+                {
+                  "paragraph": "Los arneses ofrecen un mayor control y distribuyen la presión de manera más uniforme en comparación con los collares, lo que los convierte en una opción ideal para los paseos diarios."
+                }
+              ],
+              "question": "¿Cuáles son las ventajas de los arneses frente a los collares?"
+            }
+          ],
+          "category": "todos-los-arneses",
+          "title": "Preguntas frecuentes sobre arneses",
+          "description": "Los arneses Zee.Dog están diseñados para ofrecer la máxima comodidad y control durante los paseos."
+        },
+        {
+          "questions": [
+            {
+              "answer": [
+                {
+                  "paragraph": "Los arneses en H ofrecen un ajuste excelente y distribuyen la presión por todo el cuerpo del perro, reduciendo el riesgo de asfixia."
+                }
+              ],
+              "question": "¿Por qué elegir un arnés en H?"
+            }
+          ],
+          "category": "arneses-en-h",
+          "title": "Preguntas frecuentes sobre arneses en H",
+          "description": "Los arneses en H de Zee.Dog son ideales para una mayor comodidad y seguridad durante los paseos."
+        },
+        {
+          "questions": [
+            {
+              "answer": [
+                {
+                  "paragraph": "Los arneses con asa ofrecen un control adicional sobre el perro, facilitando su manejo en situaciones de emergencia o en entornos concurridos."
+                }
+              ],
+              "question": "¿Cuándo usar un arnés con asa?"
+            }
+          ],
+          "category": "arneses-con-asa-de-control",
+          "title": "Preguntas frecuentes sobre arneses con asa",
+          "description": "Los arneses con asa Zee.Dog ofrecen mayor seguridad y control en cualquier situación."
+        },
+        {
+          "questions": [
+            {
+              "answer": [
+                {
+                  "paragraph": "Los arneses de malla son ligeros, transpirables y cómodos, ideales para los días calurosos y para perros de tamaño pequeño."
+                }
+              ],
+              "question": "¿Cuáles son las ventajas de los arneses de malla?"
+            }
+          ],
+          "category": "arneses-de-malla",
+          "title": "Preguntas frecuentes sobre arneses de malla",
+          "description": "Los arneses de malla Zee.Dog ofrecen máxima comodidad y transpirabilidad para tu perro."
+        },
+        {
+        "questions": [
+          {
+            "answer": [
+          {
+          "paragraph": "Los arneses proporcionan mayor comodidad y seguridad al distribuir la presión de manera uniforme por el cuerpo del perro, evitando lesiones en el cuello durante los paseos."
+          }
+            ],
+            "question": "¿Por qué usar una pechera para el perro?"
+          },
+          {
+            "answer": [
+          {
+          "paragraph": "Para elegir la pechera ideal, mide el pecho de tu perro y verifica el ajuste. Prefiere modelos ajustables y hechos de materiales resistentes y cómodos."
+          }
+            ],
+            "question": "¿Cómo elegir la pechera adecuada para mi perro?"
+          },
+          {
+            "answer": [
+          {
+          "paragraph": "Se recomienda lavar regularmente la pechera con agua tibia y jabón neutro, dejándola secar completamente antes de volver a usarla. Esto garantiza higiene y mayor durabilidad."
+          }
+            ],
+            "question": "¿Cómo cuidar la pechera del perro?"
+          }
+          ],
+          "category": "pecheras",
+          "title": "Preguntas frecuentes sobre pecheras",
+          "description": "Las pecheras Zee.Dog están diseñadas para ofrecer comodidad, seguridad y estilo durante los paseos, disponibles en diferentes tallas y modelos para adaptarse a cada perro."
+        },
+        {
+          "questions": [
+            {
+              "answer": [
+                {
+                  "paragraph": "Los collares sirven para identificar al perro y mantenerlo bajo control durante los paseos. Es importante elegir un collar del tamaño adecuado para garantizar la máxima comodidad."
+                }
+              ],
+              "question": "¿Por qué usar un collar para el perro?"
+            }
+          ],
+          "category": "collares",
+          "title": "Preguntas frecuentes sobre collares",
+          "description": "Los collares Zee.Dog son duraderos, elegantes y están disponibles en una variedad de tamaños para adaptarse a cada perro."
+        },
+        {
+          "questions": [
+            {
+              "answer": [
+                {
+                  "paragraph": "Los Zee.Pinz son accesorios versátiles que se pueden usar para sujetar bolsas para excrementos, llaves u otros objetos esenciales al collar o al arnés."
+                }
+              ],
+              "question": "¿Cómo se utilizan los Zee.Pinz?"
+            }
+          ],
+          "category": "zee-pinz",
+          "title": "Preguntas frecuentes sobre los Zee.Pinz",
+          "description": "Zee.Pinz son accesorios prácticos que complementan la línea de productos Zee.Dog para hacer los paseos más cómodos."
+        },
+        {
+          "category": "ropa-para-perros",
+          "title": "Preguntas frecuentes sobre ropa para perros",
+          "description": "La ropa para perros Zee.Dog ofrece protección contra el frío y la lluvia, garantizando comodidad y estilo durante los paseos.",
+          "questions": [
+            {
+              "question": "¿Cuáles son las ventajas de la ropa para perros?",
+              "answer": [
+                {
+                  "paragraph": "La ropa para perros ayuda a proteger del frío, la lluvia y posibles irritaciones cutáneas, manteniendo a tu perro cómodo y seguro."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "abrigos-para-perros",
+          "title": "Preguntas frecuentes sobre abrigos para perros",
+          "description": "Los abrigos para perros Zee.Dog están hechos con materiales de alta calidad para garantizar protección contra el frío y la humedad.",
+          "questions": [
+            {
+              "question": "¿Cómo elegir el abrigo adecuado para mi perro?",
+              "answer": [
+                {
+                  "paragraph": "Es importante medir la longitud y la circunferencia del pecho del perro para elegir un abrigo de la talla correcta, que ofrezca libertad de movimiento y comodidad."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "impermeable",
+          "title": "Preguntas frecuentes sobre impermeables para perros",
+          "description": "Los impermeables para perros Zee.Dog protegen de la lluvia y el viento, manteniendo a tu amigo de cuatro patas seco y cómodo.",
+          "questions": [
+            {
+              "question": "¿Por qué usar un impermeable para el perro?",
+              "answer": [
+                {
+                  "paragraph": "Los impermeables ayudan a mantener al perro seco durante los paseos bajo la lluvia, evitando molestias causadas por la humedad y el frío."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "answer": [
+                {
+                  "paragraph": "Los juguetes para perros son esenciales para estimular la mente y el cuerpo de tu perro, previniendo el aburrimiento y promoviendo comportamientos saludables."
+                }
+              ],
+              "question": "¿Por qué son importantes los juguetes para perros?"
+            },
+            {
+              "answer": [
+                {
+                  "paragraph": "Es importante elegir un juguete adecuado al tamaño y la fuerza de mordida de tu perro. Materiales duraderos y seguros son fundamentales para garantizar la seguridad."
+                }
+              ],
+              "question": "¿Cómo elegir el juguete adecuado para mi perro?"
+            }
+          ],
+          "category": "juguetes",
+          "title": "Preguntas frecuentes sobre juguetes para perros",
+          "description": "Los juguetes Zee.Dog ofrecen diversión y estimulación mental para tu perro, disponibles en diferentes formas y materiales."
+        },
+        {
+          "questions": [
+            {
+              "answer": [
+                {
+                  "paragraph": "Los juguetes para perros son esenciales para estimular la mente y la actividad física de tu mascota, previniendo el aburrimiento y el comportamiento destructivo."
+                }
+              ],
+              "question": "¿Por qué es importante proporcionar juguetes al perro?"
+            },
+            {
+              "answer": [
+                {
+                  "paragraph": "Elige juguetes adecuados al tamaño y la fuerza de mordida de tu perro. Materiales resistentes como la goma natural son ideales para los masticadores intensos."
+                }
+              ],
+              "question": "¿Cómo elegir el juguete adecuado para mi perro?"
+            }
+          ],
+          "category": "todos-los-juegos",
+          "title": "Preguntas frecuentes sobre juguetes para perros",
+          "description": "Los juguetes para perros Zee.Dog están diseñados para proporcionar diversión y estimulación mental, disponibles en varias formas y materiales duraderos."
+        },
+        {
+          "questions": [
+            {
+              "answer": [
+                {
+                  "paragraph": "Los juegos de búsqueda ayudan a fortalecer el vínculo entre tú y tu perro, mejorando también las habilidades de obediencia y el ejercicio físico."
+                }
+              ],
+              "question": "¿Cuáles son los beneficios de los juegos de búsqueda?"
+            },
+            {
+              "answer": [
+                {
+                  "paragraph": "Elige objetos ligeros y fáciles de agarrar para tu perro, como pelotas de goma o frisbees diseñados específicamente para perros."
+                }
+              ],
+              "question": "¿Qué tipo de juego de búsqueda es más adecuado para mi perro?"
+            }
+          ],
+          "category": "juguetes-lanzadores",
+          "title": "Preguntas frecuentes sobre juegos de búsqueda",
+          "description": "Los juguetes para buscar Zee.Dog brindan horas de diversión y entrenamiento, y están fabricados con materiales seguros y duraderos."
+        },
+        {
+          "questions": [
+            {
+              "answer": [
+                {
+                  "paragraph": "Los juguetes masticables ayudan a mantener los dientes del perro limpios y sanos, reduciendo el estrés y previniendo comportamientos no deseados."
+                }
+              ],
+              "question": "¿Por qué elegir juguetes masticables para el perro?"
+            },
+            {
+              "answer": [
+                {
+                  "paragraph": "Opta por materiales seguros y resistentes como el nylon o la goma natural, evitando objetos demasiado pequeños que podrían ser ingeridos."
+                }
+              ],
+              "question": "¿Cómo elegir el mejor juguete masticable para mi perro?"
+            }
+          ],
+          "category": "juguetes-para-mordedores",
+          "title": "Preguntas frecuentes sobre juguetes masticables",
+          "description": "Los juguetes masticables Zee.Dog son ideales para la salud dental y el bienestar mental de tu perro, disponibles en varios tamaños y materiales."
+        },
+        {
+          "questions": [
+            {
+              "answer": [
+          {
+            "paragraph": "Los dispensadores de snacks son juguetes interactivos que liberan premios o croquetas a medida que el perro juega, estimulando su mente y ayudando a combatir el aburrimiento."
+          }
+              ],
+              "question": "¿Qué es un dispensador de snacks para perros?"
+            },
+            {
+              "answer": [
+          {
+            "paragraph": "Ayudan a mantener a tu perro entretenido, fomentan el ejercicio mental y físico, y pueden ser útiles para reducir la ansiedad y los comportamientos destructivos."
+          }
+              ],
+              "question": "¿Cuáles son los beneficios de usar un dispensador de snacks?"
+            },
+            {
+              "answer": [
+          {
+            "paragraph": "Elige un dispensador adecuado al tamaño y fuerza de tu perro, fabricado con materiales resistentes y fáciles de limpiar. Asegúrate de que sea seguro y no tenga piezas pequeñas que puedan desprenderse."
+          }
+              ],
+              "question": "¿Cómo elegir el dispensador de snacks ideal?"
+            },
+            {
+              "answer": [
+          {
+            "paragraph": "Lava el dispensador regularmente con agua tibia y jabón neutro, asegurándote de secarlo bien antes de volver a usarlo. Esto previene la acumulación de residuos y bacterias."
+          }
+              ],
+              "question": "¿Cómo limpiar y mantener el dispensador de snacks?"
+            }
+          ],
+          "category": "dispensador-de-snacks",
+          "title": "Preguntas frecuentes sobre dispensadores de snacks",
+          "description": "Los dispensadores de snacks Zee.Dog son perfectos para estimular la mente de tu perro y ofrecerle diversión mientras recibe sus premios favoritos."
+        },
+        {
+          "questions": [
+            {
+              "answer": [
+          {
+            "paragraph": "Los juguetes para jalar son ideales para fortalecer el vínculo entre tú y tu perro, promoviendo el ejercicio físico y mental durante el juego."
+          }
+              ],
+              "question": "¿Cuáles son los beneficios de los juguetes para jalar?"
+            },
+            {
+              "answer": [
+          {
+            "paragraph": "Elige juguetes resistentes, hechos de materiales duraderos como cuerda o goma, y asegúrate de que sean del tamaño adecuado para la boca de tu perro."
+          }
+              ],
+              "question": "¿Cómo elegir un juguete para jalar seguro para mi perro?"
+            },
+            {
+              "answer": [
+          {
+            "paragraph": "Siempre supervisa el juego y revisa el estado del juguete regularmente. Si notas partes desgastadas o rotas, reemplázalo para evitar riesgos."
+          }
+              ],
+              "question": "¿Qué precauciones debo tener al usar juguetes para jalar?"
+            }
+          ],
+          "category": "juguetes-para-jalar",
+          "title": "Preguntas frecuentes sobre juguetes para jalar",
+          "description": "Los juguetes para jalar Zee.Dog están diseñados para ofrecer diversión y resistencia, ideales para juegos interactivos y para mantener a tu perro activo y feliz."
+        },
+        {
+          "questions": [
+            {
+              "answer": [
+          {
+            "paragraph": "Los complementos Zee.Pinz, como Moon y 8-Bit Head, son accesorios prácticos y divertidos que puedes colocar en el collar, arnés o correa de tu mascota para personalizar su estilo."
+          }
+              ],
+              "question": "¿Qué son los complementos Zee.Pinz?"
+            },
+            {
+              "answer": [
+          {
+            "paragraph": "Simplemente engancha el Zee.Pinz en el accesorio de tu mascota, asegurándote de que quede bien sujeto. Son fáciles de poner y quitar, permitiendo cambiar el estilo cuando quieras."
+          }
+              ],
+              "question": "¿Cómo se colocan los complementos Zee.Pinz?"
+            },
+            {
+              "answer": [
+          {
+            "paragraph": "Sí, los Zee.Pinz están hechos de materiales resistentes y seguros para mascotas. No contienen piezas pequeñas que puedan desprenderse fácilmente."
+          }
+              ],
+              "question": "¿Son seguros los complementos Zee.Pinz para mi mascota?"
+            },
+            {
+              "answer": [
+          {
+            "paragraph": "Puedes limpiar los Zee.Pinz con un paño húmedo y jabón suave si es necesario. Evita el uso de productos abrasivos para mantener los colores y materiales en buen estado."
+          }
+              ],
+              "question": "¿Cómo limpiar y mantener los complementos Zee.Pinz?"
+            }
+          ],
+          "category": "complementos",
+          "title": "Preguntas frecuentes sobre complementos Zee.Pinz",
+          "description": "Personaliza el look de tu mascota con los complementos Zee.Pinz como Moon y 8-Bit Head. Son fáciles de usar, seguros y añaden un toque único a cada paseo."
+        },
+        {
+          "questions": [
+            {
+              "answer": [
+          {
+            "paragraph": "Las fundas para tag protegen la placa de identificación de tu mascota contra el desgaste, la suciedad y la humedad, asegurando que la información siempre sea legible."
+          }
+              ],
+              "question": "¿Para qué sirven las fundas para tag?"
+            },
+            {
+              "answer": [
+          {
+            "paragraph": "Elige una funda hecha de materiales resistentes al agua y a los golpes, que se ajuste bien a la placa y no cause molestias a tu mascota."
+          }
+              ],
+              "question": "¿Cómo elegir la funda adecuada para la tag de mi mascota?"
+            },
+            {
+              "answer": [
+          {
+            "paragraph": "Limpia la funda regularmente con un paño húmedo y revisa que no tenga daños o desgaste para mantener la protección de la placa."
+          }
+              ],
+              "question": "¿Cómo cuidar y limpiar la funda para tag?"
+            }
+          ],
+          "category": "fundas-para-tag",
+          "title": "Preguntas frecuentes sobre fundas para tag",
+          "description": "Las fundas para tag Zee.Dog protegen la placa de identificación de tu mascota, asegurando que siempre esté visible y en buen estado."
+        },
+        {
+          "questions": [
+            {
+              "answer": [
+                {
+                  "paragraph": "Los peluches para perros son perfectos para el confort y el juego, ayudando a reducir el estrés y ofreciendo compañía durante el descanso."
+                }
+              ],
+              "question": "¿Cuáles son las ventajas de los peluches para perros?"
+            },
+            {
+              "answer": [
+                {
+                  "paragraph": "Elige peluches sin partes pequeñas o desmontables y con costuras reforzadas para garantizar mayor seguridad y durabilidad."
+                }
+              ],
+              "question": "¿Cómo elegir un peluche seguro para mi perro?"
+            }
+          ],
+          "category": "peluche",
+          "title": "Preguntas frecuentes sobre juguetes de peluche para perros",
+          "description": "Los juguetes de peluche Zee.Dog son suaves, seguros y duraderos, perfectos para la comodidad y el juego de tu perro."
+        },
+        {
+          "category": "camas-y-cobertores",
+          "title": "Preguntas frecuentes sobre camas y cobertores para perros",
+          "description": "Las camas y cobertores Zee.Dog ofrecen el máximo confort y protección para el descanso de tu perro, ideales para cualquier clima y fáciles de mantener.",
+          "questions": [
+            {
+              "question": "¿Cuál es la diferencia entre una cama y un cobertor para perros?",
+              "answer": [
+          {
+            "paragraph": "La cama proporciona un espacio acolchado y cómodo para que el perro descanse, mientras que el cobertor sirve para abrigar, proteger del frío o cubrir la cama, añadiendo una capa extra de confort."
+          }
+              ]
+            },
+            {
+              "question": "¿Cómo elegir la cama o cobertor adecuado para mi perro?",
+              "answer": [
+          {
+            "paragraph": "Considera el tamaño, la edad y los hábitos de tu perro. Elige una cama del tamaño apropiado y un cobertor suave, fácil de lavar y que se adapte a la temperatura de tu hogar."
+          }
+              ]
+            },
+            {
+              "question": "¿Cómo lavar y mantener las camas y cobertores?",
+              "answer": [
+          {
+            "paragraph": "Lava regularmente las fundas y cobertores con agua fría y jabón neutro. Sigue siempre las instrucciones del fabricante para conservar los materiales en buen estado."
+          }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "camas",
+          "title": "Preguntas frecuentes sobre camas para perros",
+          "description": "Las camas Zee.Dog ofrecen comodidad y seguridad para el descanso de tu perro, disponibles en diferentes materiales y tamaños.",
+          "questions": [
+            {
+              "question": "¿Cómo elegir la cama adecuada para mi perro?",
+              "answer": [
+                {
+                  "paragraph": "La elección de la cama depende del tamaño de tu perro y del material más adecuado para su comodidad. Es importante que sea lo suficientemente grande para que pueda acostarse cómodamente."
+                }
+              ]
+            },
+            {
+              "question": "¿Cómo limpiar la cama del perro?",
+              "answer": [
+                {
+                  "paragraph": "Para mantener la cama higiénica, se recomienda lavar regularmente la funda con agua y jabón neutro, siguiendo las instrucciones del fabricante."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "camas-elevadas",
+          "title": "Preguntas frecuentes sobre camas elevadas",
+          "description": "Las camas elevadas Zee.Dog están diseñadas para garantizar un descanso cómodo para tu perro, ideales para uso en interiores y exteriores.",
+          "questions": [
+            {
+              "question": "¿Cuáles son las ventajas de una cama elevada en comparación con una cama tradicional?",
+              "answer": [
+                {
+                  "paragraph": "Las camas elevadas levantan al perro del suelo, ofreciendo mayor ventilación y comodidad, especialmente en climas cálidos."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "cobertores-de-cama",
+          "title": "Preguntas frecuentes sobre cobertores de cama",
+          "description": "Los cobertores de cama Zee.Dog protegen la cama de tu perro y ofrecen una capa extra de confort, ideales para cualquier estación del año.",
+          "questions": [
+            {
+              "question": "¿Para qué sirve un cobertor de cama para perros?",
+              "answer": [
+          {
+            "paragraph": "El cobertor ayuda a mantener la cama limpia, protege contra el pelo, la suciedad y el desgaste, y brinda mayor comodidad a tu mascota."
+          }
+              ]
+            },
+            {
+              "question": "¿Cómo elegir el cobertor adecuado para la cama de mi perro?",
+              "answer": [
+          {
+            "paragraph": "Elige un cobertor del tamaño adecuado para la cama y que sea fácil de lavar. Prefiere materiales suaves y resistentes para mayor durabilidad y confort."
+          }
+              ]
+            },
+            {
+              "question": "¿Cómo lavar y mantener el cobertor de cama?",
+              "answer": [
+          {
+            "paragraph": "Lava el cobertor regularmente con agua fría y jabón neutro. Sigue las instrucciones de la etiqueta para conservar los materiales en buen estado."
+          }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "comederos",
+          "title": "Preguntas frecuentes sobre comederos para perros",
+          "description": "Los comederos Zee.Dog para perros están diseñados para ser resistentes, fáciles de limpiar y adecuados para todo tipo de alimentos.",
+          "questions": [
+            {
+              "question": "¿Cuál es el mejor material para un comedero de perro?",
+              "answer": [
+          {
+            "paragraph": "Los comederos de acero inoxidable o cerámica son recomendados porque no retienen olores, son fáciles de limpiar y más higiénicos que los de plástico."
+          }
+              ]
+            },
+            {
+              "question": "¿Con qué frecuencia debo limpiar el comedero de mi perro?",
+              "answer": [
+          {
+            "paragraph": "Se recomienda lavar el comedero diariamente con agua y jabón neutro para evitar la acumulación de bacterias y mantener la salud de tu perro."
+          }
+              ]
+            },
+            {
+              "question": "¿Qué tamaño de comedero debo elegir para mi perro?",
+              "answer": [
+          {
+            "paragraph": "El tamaño del comedero debe adaptarse al tamaño y la cantidad de alimento que consume tu perro. Un comedero más grande es ideal para perros medianos o grandes, mientras que uno pequeño es suficiente para perros de raza pequeña."
+          }
+              ]
+            },
+            {
+              "question": "¿Los comederos antideslizantes son útiles?",
+              "answer": [
+          {
+            "paragraph": "Sí, los comederos antideslizantes evitan que el recipiente se mueva mientras el perro come, facilitando la alimentación y evitando derrames."
+          }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "fundas-de-cama-zee-bed",
+          "title": "Preguntas frecuentes sobre fundas Zee.Bed",
+          "description": "Las fundas Zee.Bed son fáciles de limpiar y están disponibles en varios diseños para adaptarse al estilo de tu hogar.",
+          "questions": [
+            {
+              "question": "¿Cómo lavar las fundas Zee.Bed?",
+              "answer": [
+                {
+                  "paragraph": "Las fundas son lavables a máquina con agua fría y jabón neutro, evitando el uso de lejía o suavizantes para preservar los materiales."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "comederos-de-acero",
+          "title": "Preguntas frecuentes sobre los tazones de acero",
+          "description": "Los tazones de acero Zee.Dog son duraderos y fáciles de limpiar, ideales para comida y agua.",
+          "questions": [
+            {
+              "question": "¿Cuáles son las ventajas de los tazones de acero?",
+              "answer": [
+                {
+                  "paragraph": "Los tazones de acero son duraderos, resistentes a la oxidación y fáciles de higienizar, lo que los convierte en una opción segura para tu perro."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "comederos-de-viaje",
+          "title": "Preguntas frecuentes sobre tazones de viaje",
+          "description": "Los tazones de viaje Zee.Dog son plegables y ligeros, perfectos para las aventuras con tu perro.",
+          "questions": [
+            {
+              "question": "¿Cómo se usan los tazones de viaje?",
+              "answer": [
+                {
+                  "paragraph": "Los tazones de viaje están diseñados para ser compactos y fáciles de transportar. Solo necesitas abrirlos y llenarlos con agua o comida durante los paseos o viajes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "comederos-de-viaje",
+          "title": "Preguntas frecuentes sobre tazones de viaje",
+          "description": "Los tazones de viaje Zee.Dog son plegables y ligeros, perfectos para las aventuras con tu perro.",
+          "questions": [
+            {
+              "question": "¿Cómo se usan los tazones de viaje?",
+              "answer": [
+          {
+            "paragraph": "Los tazones de viaje están diseñados para ser compactos y fáciles de transportar. Solo necesitas abrirlos y llenarlos con agua o comida durante los paseos o viajes."
+          }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "bandeja-para-comederos",
+          "title": "Preguntas frecuentes sobre bandejas para comederos",
+          "description": "Las bandejas para comederos Zee.Dog ayudan a mantener el área de alimentación limpia y ordenada, evitando derrames y facilitando la limpieza.",
+          "questions": [
+            {
+              "question": "¿Para qué sirve una bandeja para comederos?",
+              "answer": [
+          {
+            "paragraph": "La bandeja para comederos protege el suelo de restos de comida y agua, manteniendo el espacio de tu mascota más higiénico y fácil de limpiar."
+          }
+              ]
+            },
+            {
+              "question": "¿Cómo elegir la bandeja adecuada para el comedero de mi perro?",
+              "answer": [
+          {
+            "paragraph": "Elige una bandeja del tamaño adecuado para el comedero y que tenga una base antideslizante para evitar movimientos durante las comidas."
+          }
+              ]
+            },
+            {
+              "question": "¿Las bandejas para comederos son fáciles de limpiar?",
+              "answer": [
+          {
+            "paragraph": "Sí, las bandejas Zee.Dog están hechas de materiales resistentes y fáciles de lavar, solo necesitas agua y jabón neutro."
+          }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "dispensadores-de-bolsas-higienicas",
+          "title": "Preguntas frecuentes sobre dispensadores de bolsas higiénicas",
+          "description": "Los dispensadores de bolsas higiénicas Zee.Dog son prácticos y ecológicos, ideales para llevar bolsas durante los paseos y facilitar la recolección de excrementos.",
+          "questions": [
+            {
+              "question": "¿Cuáles son las ventajas de los dispensadores de bolsas higiénicas?",
+              "answer": [
+          {
+            "paragraph": "Los dispensadores permiten llevar siempre bolsas a la mano, facilitando la limpieza durante los paseos y ayudando a mantener las calles limpias."
+          }
+              ]
+            },
+            {
+              "question": "¿Por qué elegir bolsas biodegradables?",
+              "answer": [
+          {
+            "paragraph": "Las bolsas biodegradables se descomponen naturalmente, reduciendo el impacto ambiental y siendo una opción más responsable para el cuidado del entorno."
+          }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "accesorios-de-higiene",
+          "title": "Preguntas frecuentes sobre accesorios de higiene",
+          "description": "Los accesorios de higiene Zee.Dog ayudan a mantener a tu perro limpio y saludable.",
+          "questions": [
+            {
+              "question": "¿Qué productos son esenciales para la higiene del perro?",
+              "answer": [
+                {
+                  "paragraph": "Cepillos, toallitas húmedas y champús específicos para perros son fundamentales para mantener el pelaje y la piel saludables."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "todos-los-productos-para-gatos",
+          "title": "Preguntas frecuentes sobre todos los productos para gatos",
+          "description": "Descubre nuestra selección de productos para gatos, incluyendo collares, tazones, rascadores y mucho más.",
+          "questions": [
+            {
+              "question": "¿Cuáles son los productos esenciales para un gato?",
+              "answer": [
+                {
+                  "paragraph": "Entre los productos fundamentales para un gato se encuentran tazones para comida y agua, rascadores, una cama cómoda y juguetes interactivos para mantenerlo activo."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "collares-para-gatos",
+          "title": "Preguntas frecuentes sobre collares para gatos",
+          "description": "Los collares para gatos Zee.Dog son seguros y ajustables para garantizar la máxima comodidad y seguridad.",
+          "questions": [
+            {
+              "question": "¿Los collares para gatos son seguros?",
+              "answer": [
+                {
+                  "paragraph": "Sí, los collares Zee.Dog para gatos tienen un sistema de seguridad que se abre automáticamente en caso de tracción excesiva para evitar riesgos."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "arnes-y-correa-para-gatos",
+          "title": "Preguntas frecuentes sobre los sets de arnés y correa para gatos",
+          "description": "Los sets de arnés y correa Zee.Dog están diseñados para ofrecer un paseo seguro y cómodo para tu gato.",
+          "questions": [
+            {
+              "question": "¿Cómo acostumbrar a un gato a usar el arnés?",
+              "answer": [
+                {
+                  "paragraph": "Se recomienda ponerle el arnés en casa por períodos cortos, recompensando al gato con snacks y caricias para que se acostumbre gradualmente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "trasportinos",
+          "title": "Preguntas frecuentes sobre transportines para gatos",
+          "description": "Los transportines Zee.Dog ofrecen seguridad y comodidad para el transporte de tu gato en viajes cortos o largos.",
+          "questions": [
+            {
+              "question": "¿Cómo elegir el transportín adecuado para mi gato?",
+              "answer": [
+                {
+                  "paragraph": "El transportín debe ser lo suficientemente espacioso para permitir que el gato se mueva, con buena ventilación y materiales resistentes para garantizar su seguridad."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "comederos-de-gato",
+          "title": "Preguntas frecuentes sobre los tazones para gatos",
+          "description": "Los tazones Zee.Dog para gatos están diseñados para ser ergonómicos, resistentes y fáciles de limpiar.",
+          "questions": [
+            {
+              "question": "¿Cuál es el mejor tazón para un gato?",
+              "answer": [
+                {
+                  "paragraph": "Los tazones de cerámica o acero son los mejores porque no retienen olores y son fáciles de higienizar. Los tazones elevados pueden ayudar a prevenir problemas digestivos."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "comederos-y-bandejas",
+          "title": "Preguntas frecuentes sobre comederos y bandejas para perros",
+          "description": "Los comederos y bandejas Zee.Dog para perros están diseñados para ofrecer practicidad, higiene y comodidad durante las comidas.",
+          "questions": [
+            {
+              "question": "¿Cuál es la diferencia entre un comedero y una bandeja para perros?",
+              "answer": [
+          {
+            "paragraph": "El comedero es el recipiente donde se coloca la comida o el agua del perro, mientras que la bandeja sirve para proteger el área de alimentación, evitando derrames y facilitando la limpieza."
+          }
+              ]
+            },
+            {
+              "question": "¿Qué material es mejor para los comederos de perros?",
+              "answer": [
+          {
+            "paragraph": "Los comederos de acero inoxidable o cerámica son recomendados porque no retienen olores, son fáciles de limpiar y más higiénicos que los de plástico."
+          }
+              ]
+            },
+            {
+              "question": "¿Por qué usar una bandeja debajo del comedero?",
+              "answer": [
+          {
+            "paragraph": "La bandeja ayuda a mantener el área de alimentación limpia, recogiendo restos de comida y agua que puedan caer durante las comidas."
+          }
+              ]
+            },
+            {
+              "question": "¿Con qué frecuencia debo limpiar los comederos y bandejas?",
+              "answer": [
+          {
+            "paragraph": "Se recomienda lavar los comederos y las bandejas diariamente con agua y jabón neutro para evitar la acumulación de bacterias y mantener la salud de tu perro."
+          }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "juguetes-para-gato",
+          "title": "Preguntas frecuentes sobre juguetes para gatos",
+          "description": "Los juguetes para gatos Zee.Dog están diseñados para estimular la mente y el cuerpo de tu felino, ayudando a prevenir el aburrimiento y promoviendo el ejercicio.",
+          "questions": [
+            {
+              "question": "¿Por qué es importante que mi gato tenga juguetes?",
+              "answer": [
+          {
+            "paragraph": "Los juguetes ayudan a mantener a tu gato activo, reducen el estrés y previenen el comportamiento destructivo. Además, fomentan el ejercicio y la estimulación mental."
+          }
+              ]
+            },
+            {
+              "question": "¿Qué tipo de juguetes son recomendables para gatos?",
+              "answer": [
+          {
+            "paragraph": "Se recomiendan juguetes interactivos, pelotas, cañas con plumas y ratones de tela. Es importante variar los juguetes para mantener el interés de tu gato."
+          }
+              ]
+            },
+            {
+              "question": "¿Con qué frecuencia debo cambiar los juguetes de mi gato?",
+              "answer": [
+          {
+            "paragraph": "Es recomendable rotar los juguetes cada cierto tiempo para evitar que tu gato se aburra. También revisa regularmente el estado de los juguetes y reemplázalos si están dañados."
+          }
+              ]
+            },
+            {
+              "question": "¿Son seguros los juguetes Zee.Dog para gatos?",
+              "answer": [
+          {
+            "paragraph": "Sí, los juguetes Zee.Dog para gatos están hechos con materiales seguros y resistentes, pensados para el uso diario y la seguridad de tu mascota."
+          }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "rascadores",
+          "title": "Preguntas frecuentes sobre rascadores para gatos",
+          "description": "Los rascadores Zee.Dog ayudan a tu gato a mantener sus uñas sanas y a evitar daños en los muebles de la casa.",
+          "questions": [
+            {
+              "question": "¿Por qué mi gato necesita un rascador?",
+              "answer": [
+                {
+                  "paragraph": "Los gatos rascan para afilar sus uñas, marcar territorio y estirar los músculos. Un rascador dedicado ayuda a proteger los muebles de la casa."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "bolsos-de-transporte",
+          "title": "Preguntas frecuentes sobre bolsos de transporte para gatos",
+          "description": "Los bolsos de transporte Zee.Dog para gatos ofrecen seguridad, comodidad y estilo para llevar a tu felino a cualquier lugar.",
+          "questions": [
+            {
+              "question": "¿Por qué usar un bolso de transporte para gatos?",
+              "answer": [
+          {
+            "paragraph": "El bolso de transporte permite trasladar a tu gato de manera segura y cómoda, ya sea para visitas al veterinario, viajes o paseos cortos, evitando el estrés y posibles accidentes."
+          }
+              ]
+            },
+            {
+              "question": "¿Cómo elegir el bolso de transporte adecuado para mi gato?",
+              "answer": [
+          {
+            "paragraph": "Elige un bolso que sea lo suficientemente espacioso para que tu gato pueda moverse, con buena ventilación y materiales resistentes. Verifica que tenga cierres seguros y asas cómodas para el transporte."
+          }
+              ]
+            },
+            {
+              "question": "¿Cómo acostumbrar a mi gato al bolso de transporte?",
+              "answer": [
+          {
+            "paragraph": "Coloca el bolso abierto en casa y deja que tu gato lo explore libremente. Puedes poner una manta o juguetes dentro para que lo asocie con un lugar seguro y cómodo antes de usarlo para salir."
+          }
+              ]
+            },
+            {
+              "question": "¿Cómo limpiar y mantener el bolso de transporte?",
+              "answer": [
+          {
+            "paragraph": "Limpia el bolso regularmente con un paño húmedo y jabón suave. Asegúrate de secarlo bien antes de guardarlo y revisa que no tenga daños o desgastes antes de cada uso."
+          }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "camas-1",
+          "title": "Preguntas frecuentes sobre camas para gatos",
+          "description": "Las camas Zee.Dog para gatos ofrecen comodidad y seguridad para el descanso de tu felino, disponibles en varios materiales y diseños.",
+          "questions": [
+            {
+              "question": "¿Cómo elegir la cama adecuada para mi gato?",
+              "answer": [
+                {
+                  "paragraph": "Los gatos prefieren camas suaves y acogedoras, a menudo con bordes elevados para sentirse protegidos. Elige una cama que se adapte a su personalidad y hábitos de sueño."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "arneses-anti-tirones",
+          "title": "Preguntas frecuentes sobre arneses anti-tiro",
+          "description": "Los arneses anti-tiro Zee.Dog están diseñados para ofrecer mayor control y comodidad durante los paseos, ayudando a reducir los tirones del perro.",
+          "questions": [
+            {
+              "question": "¿Cómo funciona un arnés anti-tiro?",
+              "answer": [
+                {
+                  "paragraph": "Los arneses anti-tiro tienen un enganche frontal que desanima al perro a tirar, redirigiendo suavemente su movimiento hacia el dueño, haciendo los paseos más relajados."
+                }
+              ]
+            },
+            {
+              "question": "¿Los arneses anti-tiro son adecuados para todos los perros?",
+              "answer": [
+                {
+                  "paragraph": "Sí, los arneses anti-tiro son ideales para perros que tienden a tirar de la correa. Sin embargo, es importante elegir la talla correcta y ajustarlo adecuadamente para garantizar la máxima comodidad y seguridad."
+                }
+              ]
+            },
+            {
+              "question": "¿Puedo usar un arnés anti-tiro para entrenar a mi perro?",
+              "answer": [
+                {
+                  "paragraph": "Sí, los arneses anti-tiro son una excelente herramienta para el entrenamiento, ayudando a enseñar al perro a caminar sin tirar. Son más efectivos si se combinan con refuerzos positivos como premios y estímulos."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "camas-y-camas-elevadas",
+          "title": "Preguntas frecuentes sobre camas y camas elevadas",
+          "description": "Las camas y camas elevadas Zee.Dog ofrecen comodidad y seguridad para el descanso de tu mascota, con diseños modernos y materiales de alta calidad.",
+          "questions": [
+            {
+              "question": "¿Cuál es la diferencia entre una cama y una cama elevada?",
+              "answer": [
+                {
+                  "paragraph": "Las camas son suaves y acolchadas, ideales para ofrecer calor y comodidad. Las camas elevadas, en cambio, están levantadas del suelo y favorecen la ventilación, perfectas para climas más cálidos."
+                }
+              ]
+            },
+            {
+              "question": "¿Cómo elegir la medida adecuada para la cama o la cama elevada?",
+              "answer": [
+                {
+                  "paragraph": "Mide a tu perro mientras está acostado y añade algunos centímetros para garantizar espacio suficiente. Las descripciones de los productos incluyen dimensiones detalladas para ayudarte a elegir el tamaño perfecto."
+                }
+              ]
+            },
+            {
+              "question": "¿Las camas y camas elevadas son fáciles de limpiar?",
+              "answer": [
+                {
+                  "paragraph": "¡Sí! Muchas camas tienen fundas desmontables y lavables a máquina, mientras que las camas elevadas se pueden limpiar fácilmente con un paño húmedo y detergente suave."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "comederos-y-alfombrillas",
+          "title": "Preguntas frecuentes sobre tazones y manteles individuales",
+          "description": "Descubre los tazones y manteles individuales Zee.Dog, diseñados para ofrecer practicidad y estilo a las comidas de tu mascota.",
+          "questions": [
+            {
+              "question": "¿Cuál es la diferencia entre un tazón clásico y un tazón ajustable en altura?",
+              "answer": [
+                {
+                  "paragraph": "Los tazones clásicos tienen una altura fija, mientras que los tazones ajustables en altura ofrecen la posibilidad de adaptarse al tamaño y las necesidades de tu mascota, mejorando su postura durante las comidas."
+                }
+              ]
+            },
+            {
+              "question": "¿Los manteles individuales ayudan a mantener limpia la zona de las comidas?",
+              "answer": [
+                {
+                  "paragraph": "¡Sí! Los manteles individuales protegen el suelo de salpicaduras y restos de comida, facilitando la limpieza y garantizando un área más higiénica para tu mascota."
+                }
+              ]
+            },
+            {
+              "question": "¿Los tazones Zee.Dog son adecuados para comida seca y húmeda?",
+              "answer": [
+                {
+                  "paragraph": "Sí, los tazones están diseñados para contener tanto comida seca como húmeda, además de agua, sin alterar el sabor de los alimentos."
+                }
+              ]
+            },
+            {
+              "question": "¿Los tazones son antideslizantes?",
+              "answer": [
+                {
+                  "paragraph": "Muchos de nuestros tazones cuentan con una base antideslizante para evitar movimientos durante las comidas, ofreciendo mayor estabilidad a tu mascota."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "todos-los-comederos",
+          "title": "Preguntas frecuentes sobre todos los tazones",
+          "description": "Explora todos los tazones Zee.Dog, diseñados para satisfacer las necesidades alimenticias de tu mascota con practicidad y estilo.",
+          "questions": [
+            {
+              "question": "¿Qué tipos de tazones Zee.Dog están disponibles?",
+              "answer": [
+                {
+                  "paragraph": "Zee.Dog ofrece una variedad de tazones, incluidos modelos clásicos, ajustables en altura y antideslizantes, todos diseñados para garantizar comodidad y funcionalidad durante las comidas de tu mascota."
+                }
+              ]
+            },
+            {
+              "question": "¿Los tazones Zee.Dog son fáciles de limpiar?",
+              "answer": [
+                {
+                  "paragraph": "Sí, los tazones Zee.Dog están diseñados para ser fáciles de limpiar, fabricados con materiales resistentes y lavables que garantizan una limpieza rápida y sin esfuerzo."
+                }
+              ]
+            },
+            {
+              "question": "¿Los tazones Zee.Dog son adecuados para mascotas de todos los tamaños?",
+              "answer": [
+                {
+                  "paragraph": "Sí, Zee.Dog ofrece tazones en diferentes tamaños, ideales para mascotas pequeñas, medianas y grandes, asegurando que cada mascota tenga el tazón adecuado para sus necesidades."
+                }
+              ]
+            },
+            {
+              "question": "¿Los tazones son adecuados para uso en exteriores?",
+              "answer": [
+                {
+                  "paragraph": "Algunos modelos de tazones Zee.Dog están diseñados para ser resistentes e ideales para uso en exteriores, gracias a materiales duraderos que soportan la humedad y las inclemencias del tiempo."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "comederos-de-altura-regulable",
+          "title": "Preguntas frecuentes sobre tazones ajustables en altura",
+          "description": "Descubre los tazones ajustables en altura Zee.Dog, diseñados para adaptarse a las necesidades alimenticias y la postura de tu mascota durante las comidas.",
+          "questions": [
+            {
+              "question": "¿Por qué debería elegir un tazón ajustable en altura?",
+              "answer": [
+                {
+                  "paragraph": "Los tazones ajustables en altura son ideales para mejorar la postura de tu mascota durante las comidas. Al adaptarse a su altura, pueden prevenir problemas de cuello y espalda, favoreciendo una mejor digestión."
+                }
+              ]
+            },
+            {
+              "question": "¿Los tazones ajustables en altura son adecuados para todos los animales?",
+              "answer": [
+                {
+                  "paragraph": "Sí, los tazones ajustables en altura son perfectos para perros y gatos de diferentes tamaños, garantizando que cada animal pueda comer en la posición más cómoda y natural para él."
+                }
+              ]
+            },
+            {
+              "question": "¿Cómo ajustar la altura del tazón?",
+              "answer": [
+                {
+                  "paragraph": "Los tazones Zee.Dog son fáciles de ajustar. Simplemente gira la base o utiliza el mecanismo de ajuste integrado para subir o bajar el tazón a la altura adecuada."
+                }
+              ]
+            },
+            {
+              "question": "¿Los tazones ajustables en altura son estables y antideslizantes?",
+              "answer": [
+                {
+                  "paragraph": "Sí, muchos de nuestros tazones ajustables en altura cuentan con una base antideslizante, que los hace estables y seguros durante su uso, evitando movimientos indeseados durante las comidas."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "comederos-clasicos",
+          "title": "Preguntas frecuentes sobre tazones clásicos",
+          "description": "Explora los tazones clásicos Zee.Dog, perfectos para las comidas diarias de tu mascota, combinando practicidad y diseño atemporal.",
+          "questions": [
+            {
+              "question": "¿Qué hace especiales a los tazones clásicos Zee.Dog?",
+              "answer": [
+                {
+                  "paragraph": "Los tazones clásicos Zee.Dog están diseñados para ser robustos y fáciles de usar, ofreciendo un diseño simple pero elegante que se adapta a cualquier entorno. Son perfectos para comida seca, húmeda y agua."
+                }
+              ]
+            },
+            {
+              "question": "¿Los tazones clásicos son fáciles de limpiar?",
+              "answer": [
+                {
+                  "paragraph": "Sí, los tazones clásicos Zee.Dog están hechos con materiales fáciles de limpiar, como acero inoxidable o plástico resistente, que pueden lavarse a mano o en lavavajillas."
+                }
+              ]
+            },
+            {
+              "question": "¿Los tazones clásicos son adecuados para perros y gatos?",
+              "answer": [
+                {
+                  "paragraph": "Sí, los tazones clásicos Zee.Dog son adecuados tanto para perros como para gatos, disponibles en diferentes tamaños para satisfacer las necesidades alimenticias de mascotas de todos los tamaños."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "alfombrillas-para-comedero",
+          "title": "Preguntas frecuentes sobre manteles individuales",
+          "description": "Descubre los manteles individuales Zee.Dog, diseñados para mantener la zona de comidas limpia y protegida de salpicaduras y restos de comida.",
+          "questions": [
+            {
+              "question": "¿Qué hace un mantel individual?",
+              "answer": [
+                {
+                  "paragraph": "Un mantel individual protege el suelo de salpicaduras y migas, ayudando a mantener el área de comidas limpia e higiénica. Es particularmente útil para evitar manchas y daños en el suelo."
+                }
+              ]
+            },
+            {
+              "question": "¿Los manteles individuales son fáciles de lavar?",
+              "answer": [
+                {
+                  "paragraph": "Sí, los manteles individuales Zee.Dog están hechos de materiales fáciles de limpiar, como goma o silicona, que pueden lavarse con agua y jabón o en la lavadora, dependiendo del modelo."
+                }
+              ]
+            },
+            {
+              "question": "¿Los manteles individuales son antideslizantes?",
+              "answer": [
+                {
+                  "paragraph": "Sí, los manteles individuales Zee.Dog tienen una superficie antideslizante que los hace estables durante las comidas, evitando que se muevan o deslicen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "empapadores-con-carbon",
+          "title": "Preguntas frecuentes sobre empapadores absorbentes",
+          "description": "Los empapadores absorbentes Zee.Dog son ideales para cachorros y para animales que necesitan un área limpia para hacer sus necesidades, manteniendo la casa higiénica.",
+          "questions": [
+            {
+              "question": "¿Para qué sirven los empapadores absorbentes?",
+              "answer": [
+                {
+                  "paragraph": "Los empapadores absorbentes Zee.Dog están diseñados para capturar orina y heces, ofreciendo un área limpia e higiénica para tu mascota. Son ideales para cachorros o animales que necesitan aprender a hacer sus necesidades fuera de casa."
+                }
+              ]
+            },
+            {
+              "question": "¿Son fáciles de usar los empapadores absorbentes?",
+              "answer": [
+                {
+                  "paragraph": "Sí, los empapadores Zee.Dog son fáciles de colocar y retirar. Solo necesitas ponerlos en el lugar deseado y reemplazarlos cuando sea necesario para mantener el área limpia y seca."
+                }
+              ]
+            },
+            {
+              "question": "¿Son biodegradables los empapadores absorbentes Zee.Dog?",
+              "answer": [
+                {
+                  "paragraph": "Sí, muchos de los empapadores Zee.Dog están hechos con materiales biodegradables y ecológicos, ofreciendo una solución más sostenible para las necesidades de tu mascota."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "page": {
+        "__resolveType": "Product Listing Page - Loader"
+      },
+      "cmsTypeFilters": {
+        "__resolveType": "site/loaders/productType.ts",
+        "productTypeContent": {
+          "__resolveType": "ProductTypes"
+        }
+      },
+      "texts": {
+        "goTopText": "ARRIBA",
+        "shelfFiltersText": "FILTROS",
+        "shelfOrderText": "ORDENAR",
+        "shelfNotFoundProductText": "No se encontraron productos que coincidan con esta combinación de filtros.",
+        "shelfTryANewCombinationText": "Intenta una nueva combinación",
+        "shelfRemoveFilterText": "ELIMINAR FILTROS",
+        "shelfProductQuantityText": "Productos:",
+        "shelfPreviousPageText": "Anterior",
+        "shelfNextPageText": "Siguiente",
+        "shelfPrepositionText": "de",
+        "price-ascending": "Precio: Ascendente",
+        "price-descending": "Precio: Descendente",
+        "best-selling": "Más vendidos",
+        "created-descending": "Más recientes",
+        "frequentlyQuestionsText": "Preguntas frecuentes",
+        "searchNotFoundQueryText": " para:",
+        "searchNotFoundText": "Lo sentimos, no se encontraron resultados",
+        "searchNotFoundSeeAlsoText": "Ver también:",
+        "searchNotFoundTypoSuggestionText": "Verifique si hay errores ortográficos en el término de búsqueda.",
+        "searchNotFoundUrlTypoSuggestionText": "Verifique si hay errores tipográficos en la URL de la página.",
+        "productTypeFilterText": "Tipo de producto",
+        "colorFilterText": "Color",
+        "sizeFilterText": "Tamaño",
+        "applyText": "APLICAR",
+        "soldOutText": "Agotado",
+        "addToCartText": "Añadir al carrito",
+        "startingAtText": "Desde",
+        "bestSeller": "Nuevo",
+        "newProduct": "Más vendido"
+      }
+    },
+    {
+      "__resolveType": "Footer"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}
